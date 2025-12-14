@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block title %}ATP Player Win Rates{% endblock %}
+
+{% block content %}
+<div class="container py-5 bg-light">
+    <h1 class="text-center mb-4 display-5 fw-bold">ATP Player Win Rates</h1>
+    <p class="text-center text-muted lead mb-5">
+        Career win percentages (players with 50+ matches)
+    </p>
+
+    <div class="table-responsive">
+        <table class="table table-hover table-striped align-middle">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Player</th>
+                    <th>Wins</th>
+                    <th>Losses</th>
+                    <th>Total Matches</th>
+                    <th>Win Rate (%)</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for idx, row in stats.iterrows() %}
+                <tr class="{% if row['Win_Rate (%)'] >= 80 %}win-rate-high{% elif row['Win_Rate (%)'] >= 70 %}win-rate-mid{% endif %}">
+                    <th>{{ loop.index }}</th>
+                    <td><strong>{{ row.name }}</strong></td>
+                    <td>{{ row.Wins }}</td>
+                    <td>{{ row.Losses }}</td>
+                    <td>{{ row.Total_Matches }}</td>
+                    <td><strong>{{ row['Win_Rate (%)'] }}%</strong></td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <div class="text-center mt-4 text-muted small">
+        Data from ATP matches • Updated as of December 2025
+    </div>
+</div>
+{% endblock %}

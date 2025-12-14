@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+
+{% block title %}Most Dominant ATP Matches{% endblock %}
+
+{% block content %}
+<div class="dark-theme">
+    <div class="container py-5">
+        <h1 class="text-center mb-4">Most Dominant ATP Matches</h1>
+        <p class="text-center mb-5">
+            Matches where a player completely crushed their opponent<br>
+            <strong class="text-warning">{{ total }}</strong> extreme dominations found
+        </p>
+
+        <div class="table-responsive">
+            <table class="table table-dark table-striped table-hover align-middle">
+                <thead class="table-primary text-dark">
+                    <tr>
+                        <th class="date-col">Date</th>
+                        <th class="tournament-col">Tournament</th>
+                        <th>Round</th>
+                        <th class="winner-col">Dominant Winner</th>
+                        <th>Rank</th>
+                        <th>Defeated</th>
+                        <th>Rank</th>
+                        <th>Odds</th>
+                        <th class="score-col">Score</th>
+                        <th>Games</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for m in matches %}
+                    <tr>
+                        <td class="date-col">{{ m.Date }}</td>
+                        <td>{{ m.Tournament }}</td>
+                        <td>{{ m.Round }}</td>
+                        <td><strong>{{ m.Dominant_Player }}</strong></td>
+                        <td><span class="badge rank-win">#{{ m.Winner_Rank }}</span></td>
+                        <td>{{ m.Loser }}</td>
+                        <td>{% if m.Loser_Rank != 'NR' %}<span class="badge rank-lose">#{{ m.Loser_Rank }}</span>{% endif %}</td>
+                        <td>{% if m.Winner_Odds != '—' %}<span class="odds">{{ m.Winner_Odds }}</span>{% endif %}</td>
+                        <td><code>{{ m.Score }}</code></td>
+                        <td>{{ m.Games_Won }}–{{ m.Games_Lost }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <div class="text-center mt-4">
+            <small class="text-muted">
+                Only straight-sets matches with ≥12 game margin
+            </small>
+        </div>
+    </div>
+</div>
+{% endblock %}

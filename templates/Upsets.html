@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+
+{% block title %}Biggest ATP Upsets{% endblock %}
+
+{% block content %}
+<div class="dark-theme">
+    <div class="container py-5">
+        <h1 class="text-center mb-4">Biggest ATP Upsets</h1>
+        <p class="text-center mb-5">
+            Matches where a massive underdog won<br>
+            <strong class="text-warning">{{ total }}</strong> upsets found
+        </p>
+
+        <div class="table-responsive">
+            <table class="table table-dark table-striped table-hover align-middle">
+                <thead class="table-primary text-dark">
+                    <tr>
+                        <th class="date-col">Date</th>
+                        <th class="tournament-col">Tournament</th>
+                        <th>Round</th>
+                        <th class="winner-col">Underdog Winner</th>
+                        <th>Rank</th>
+                        <th>Defeated</th>
+                        <th>Rank</th>
+                        <th>Odds</th>
+                        <th class="score-col">Score</th>
+                        <th>Rank Diff</th>
+                        <th>Games</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for m in matches %}
+                    <tr>
+                        <td class="date-col">{{ m.Date }}</td>
+                        <td>{{ m.Tournament }}</td>
+                        <td>{{ m.Round }}</td>
+                        <td><strong>{{ m.Underdog_Player }}</strong></td>
+                        <td><span class="badge rank-win">#{{ m.Winner_Rank }}</span></td>
+                        <td>{{ m.Loser }}</td>
+                        <td>{% if m.Loser_Rank != 'NR' %}<span class="badge rank-lose">#{{ m.Loser_Rank }}</span>{% endif %}</td>
+                        <td>{% if m.Winner_Odds != '—' %}<span class="odds">{{ m.Winner_Odds }}</span>{% endif %}</td>
+                        <td><code>{{ m.Score }}</code></td>
+                        <td>
+                            {% if m.Loser_Rank != 'NR' %}
+                                {{ m.Winner_Rank - m.Loser_Rank }}
+                            {% endif %}
+                        </td>
+                        <td>{{ m.Games_Won }}–{{ m.Games_Lost }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+{% endblock %}

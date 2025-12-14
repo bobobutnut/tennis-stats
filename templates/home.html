@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+
+{% block title %}Home - ATP Extreme Matches{% endblock %}
+
+{% block header %}
+<div class="container py-5 text-center mb-5 bg-light">
+    <h1 class="display-5 fw-bold">ATP Extreme Matches</h1>
+    <p class="lead text-muted mt-3">
+        Explore the most dominant victories and the biggest ranking upsets in men's professional tennis.
+    </p>
+</div>
+{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="row g-4">
+        <!-- Dominant Wins Card -->
+        <div class="col-12 col-md-6">
+            <a href="/dominant" class="text-decoration-none">
+                <div class="card h-100 card-hover border-0 shadow-sm">
+                    <div class="card-body text-center py-5">
+                        <i class="bi bi-trophy display-1 text-warning mb-4"></i>
+                        <h3 class="card-title fw-bold">Dominant Wins</h3>
+                        <p class="card-text text-muted">
+                            Straight-sets matches where one player won by a huge margin<br>
+                            <strong>(12+ more games than the opponent)</strong>
+                        </p>
+                        <span class="btn btn-outline-primary mt-3">View List →</span>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <!-- Big Upsets Card -->
+        <div class="col-12 col-md-6">
+            <a href="/upsets" class="text-decoration-none">
+                <div class="card h-100 card-hover border-0 shadow-sm">
+                    <div class="card-body text-center py-5">
+                        <i class="bi bi-graph-up-arrow display-1 text-danger mb-4"></i>
+                        <h3 class="card-title fw-bold">Big Upsets</h3>
+                        <p class="card-text text-muted">
+                            Matches where the winner was ranked<br>
+                            <strong>700+ positions lower</strong> than their opponent
+                        </p>
+                        <span class="btn btn-outline-danger mt-3">View List →</span>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <!-- Win rate card -->
+        <div class="col-12 col-md-6">
+            <a href="/rate" class="text-decoration-none">
+                <div class="card h-100 card-hover border-0 shadow-sm">
+                    <div class="card-body text-center py-5">
+                        <i class="bi bi-bar-chart-line display-1 text-secondary mb-4"></i>
+                        <h3 class="card-title fw-bold">Player win rates</h3>
+                        <p class="card-text text-muted">
+                            Players Win rate<br>
+                            <strong>(Highest to lowest)</strong>
+                        </p>
+                        <span class="btn btn-outline-primary mt-3">View List →</span>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <div class="text-center mt-5 text-muted small">
+        Data from ATP Tour matches • Best of 3 sets
+    </div>
+</div>
+{% endblock %}
