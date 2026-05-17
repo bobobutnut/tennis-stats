@@ -71,9 +71,7 @@ def dominant_matches():
                         continue
         return total_winner, total_loser
 
-    dominant[['Games_Won', 'Games_Lost']] = dominant['Score'].apply(
-        lambda x: pd.Series(parse_games_won(x))
-    )
+
 
     # Date handling
     dominant['Date'] = pd.to_datetime(dominant['Date'], errors='coerce')
@@ -83,7 +81,6 @@ def dominant_matches():
         'Date', 'Tournament', 'Round', 'Surface',
         'Dominant_Player', 'Winner_Rank',
         'Loser', 'Loser_Rank',
-        'Games_Won', 'Games_Lost',
         'Winner_Odds',  # ← This was missing!
         'Score'  # ← Also add Score if you want to show full score
     ]].to_dict(orient='records')
@@ -223,6 +220,29 @@ def win_rates():
     stats = stats.sort_values('Win_Rate (%)', ascending=False)
 
     return render_template('rate.html', stats=stats)
+
+
+@app.route("/recents")
+def recent_matches():
+    if not os.path.exists(CSV_PATH):
+        return "CSV file not found!", 500
+
+    df = pd.read_csv(CSV_PATH)
+    df2 = df.tail(50)
+    recent_list = df2[[
+        'Tournament', 'Date', 'Series', 'Court', 'Surface',
+        'Round', 'Best of',
+        'Player_1', 'Player_2',
+        'Winner', 'Rank_1',
+        'Rank_2', 'Pts_1', 'Pts_2',
+        'Odd_1', 'Odd_2',# ← This was missing!
+        'Score'  # ← Also add Score if you want to show full score
+    ]].to_dict(orient='records')
+
+    return render_template(
+        'recent.html',
+        matches=recent_list
+    )
 
 if __name__ == '__main__':
     app.run(debug=True)

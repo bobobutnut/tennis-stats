@@ -5,10 +5,9 @@
 {% block content %}
 <div class="dark-theme">
     <div class="container py-5">
-        <h1 class="text-center mb-4">Most Dominant ATP Matches</h1>
+        <h1 class="text-center mb-4">Recent ATP Matches</h1>
         <p class="text-center mb-5">
-            Matches where a player completely crushed their opponent<br>
-            <strong class="text-warning">{{ total }}</strong> extreme dominations found
+            Last 50 ATP matches<br>
         </p>
 
         <div class="table-responsive">
@@ -18,13 +17,12 @@
                         <th class="date-col">Date</th>
                         <th class="tournament-col">Tournament</th>
                         <th>Round</th>
-                        <th class="winner-col">Dominant Winner</th>
+                        <th class="winner-col">Player 1</th>
                         <th>Rank</th>
-                        <th>Defeated</th>
+                        <th>Player 2</th>
                         <th>Rank</th>
                         <th>Odds</th>
                         <th class="score-col">Score</th>
-
                     </tr>
                 </thead>
                 <tbody>
@@ -33,13 +31,12 @@
                         <td class="date-col">{{ m.Date }}</td>
                         <td>{{ m.Tournament }}</td>
                         <td>{{ m.Round }}</td>
-                        <td><strong>{{ m.Dominant_Player }}</strong></td>
-                        <td><span class="badge rank-win">#{{ m.Winner_Rank }}</span></td>
-                        <td>{{ m.Loser }}</td>
-                        <td>{% if m.Loser_Rank != 'NR' %}<span class="badge rank-lose">#{{ m.Loser_Rank }}</span>{% endif %}</td>
-                        <td>{% if m.Winner_Odds != '—' %}<span class="odds">{{ m.Winner_Odds }}</span>{% endif %}</td>
+                        <td><strong>{{ m.Player_1 }}</strong></td>
+                        <td><span class="badge rank-win">#{{ m.Rank_1 }}</span></td>
+                        <td>{{ m.Player_2 }}</td>
+                        <td>{% if m.Rank_2 != 'NR' %}<span class="badge rank-lose">#{{ m.Rank_2 }}</span>{% endif %}</td>
+                        <td>{% if m.Odd_1 != '—' %}<span class="odds">{{ m.Odd_1 }}</span>{% endif %}</td>
                         <td><code>{{ m.Score }}</code></td>
-
                     </tr>
                     {% endfor %}
                 </tbody>
