@@ -3,7 +3,7 @@ import pandas as pd
 import os
 
 app = Flask(__name__)
-CSV_PATH = os.path.join(app.root_path, 'static', 'atp_tennis.csv')
+CSV_PATH = os.path.join(app.root_path, 'data', 'atp_tennis.csv')
 
 
 def check_score(score1, score2, score3, score4):

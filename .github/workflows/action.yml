@@ -1,0 +1,46 @@
+name: Download Kaggle Dataset
+
+on:
+  workflow_dispatch:
+  # schedule:
+   - cron: '0 0 * * *'
+
+jobs:
+  download-data:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Step 1: Check out the repository code
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    # Step 2: Set up Python
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    # Step 3: Install the Kaggle CLI tool
+    - name: Install Kaggle CLI
+      run: |
+        pip install kaggle
+
+    # Step 4: Download and overwrite the CSV in the data folder
+    # Replace 'zillow/zecon' with your target dataset slug
+    - name: Download Dataset to Data Folder
+      env:
+        KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+        KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+      run: |
+        mkdir -p data
+        kaggle datasets download -d dissfya/atp-tennis-2000-2023daily-pull --unzip -p ./data
+
+    # Step 5: Commit the updated CSV back to the repository
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add data/
+        # Checks if there are actual changes before committing to avoid empty commit errors
+        git diff-index --quiet HEAD || git commit -m "Automated update: Refreshed Kaggle data in data/"
+        git push
