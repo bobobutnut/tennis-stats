@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+
+{% block title %}Search Results{% endblock %}
+
+{% block content %}
+<div class="dark-theme">
+    <div class="container py-5">
+        <h1 class="text-center mb-4">Search Results for "{{ query }}"</h1>
+        <p class="text-center mb-5">
+            <strong class="text-warning">{{ total }}</strong> recent matches found
+        </p>
+
+        <div class="text-center mb-4">
+            <a href="/" class="btn btn-outline-light">← Back to Home</a>
+        </div>
+
+        {% if total == 0 %}
+        <div class="alert alert-warning text-center">
+            No matches found for "{{ query }}"
+        </div>
+        {% else %}
+        <div class="table-responsive">
+            <table class="table table-dark table-striped table-hover align-middle">
+                <thead class="table-primary text-dark">
+                    <tr>
+                        <th>Date</th>
+                        <th>Tournament</th>
+                        <th>Round</th>
+                        <th>Player 1</th>
+                        <th>Rank</th>
+                        <th>Player 2</th>
+                        <th>Rank</th>
+                        <th>Winner</th>
+                        <th>Score</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for m in matches %}
+                    <tr>
+                        <td>{{ m.Date }}</td>
+                        <td>{{ m.Tournament }}</td>
+                        <td>{{ m.Round }}</td>
+                        <td>{{ m.Player_1 }}</td>
+                        <td>#{{ m.Rank_1 }}</td>
+                        <td>{{ m.Player_2 }}</td>
+                        <td>#{{ m.Rank_2 }}</td>
+                        <td><strong>{{ m.Winner }}</strong></td>
+                        <td><code>{{ m.Score }}</code></td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}

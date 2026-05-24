@@ -1,4 +1,4 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 import pandas as pd
 import os
 
@@ -242,6 +242,50 @@ def recent_matches():
     return render_template(
         'recent.html',
         matches=recent_list
+    )
+
+@app.route("/search")
+def search_player():
+    if not os.path.exists(CSV_PATH):
+        return "CSV file not found!", 500
+
+    player_query = request.args.get('q', '').strip()
+    if not player_query:
+        return render_template('search.html', matches=[], query="", total=0)
+
+    df = pd.read_csv(CSV_PATH)
+
+    # Search in both Player_1 and Player_2 (case insensitive)
+    mask = (
+        df['Player_1'].astype(str).str.contains(player_query, case=False, na=False) |
+        df['Player_2'].astype(str).str.contains(player_query, case=False, na=False)
+    )
+    player_matches = df[mask].copy()
+
+    # Sort by most recent
+    player_matches['Date'] = pd.to_datetime(player_matches['Date'], errors='coerce')
+    player_matches = player_matches.sort_values('Date', ascending=False)
+
+    # Take last 30 matches
+    player_matches = player_matches.head(30)
+
+    matches_list = player_matches[[
+        'Date', 'Tournament', 'Round', 'Surface',
+        'Player_1', 'Player_2', 'Winner', 'Score',
+        'Rank_1', 'Rank_2', 'Odd_1', 'Odd_2'
+    ]].to_dict(orient='records')
+
+    # Format data
+    for m in matches_list:
+        m['Date'] = pd.to_datetime(m['Date']).strftime('%Y-%m-%d') if pd.notna(m['Date']) else 'N/A'
+        m['Rank_1'] = int(m['Rank_1']) if pd.notna(m['Rank_1']) else 'NR'
+        m['Rank_2'] = int(m['Rank_2']) if pd.notna(m['Rank_2']) else 'NR'
+
+    return render_template(
+        'search.html',
+        matches=matches_list,
+        query=player_query,
+        total=len(matches_list)
     )
 
 if __name__ == '__main__':
