@@ -25,7 +25,11 @@
                 {% for idx, row in stats.iterrows() %}
                 <tr class="{% if row['Win_Rate (%)'] >= 80 %}win-rate-high{% elif row['Win_Rate (%)'] >= 70 %}win-rate-mid{% endif %}">
                     <th>{{ loop.index }}</th>
-                    <td><strong>{{ row.name }}</strong></td>
+                   <td>
+                        <a href="{{ get_atp_url(row.name) }}" target="_blank" class="text-dark player-link">
+                            <strong>{{ row.name }}</strong>
+                        </a>
+                    </td>
                     <td>{{ row.Wins }}</td>
                     <td>{{ row.Losses }}</td>
                     <td>{{ row.Total_Matches }}</td>

@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block title %}Most Dominant ATP Matches{% endblock %}
+{% block title %}Recent ATP Matches{% endblock %}
 
 {% block content %}
 <div class="dark-theme">
@@ -17,10 +17,11 @@
                         <th class="date-col">Date</th>
                         <th class="tournament-col">Tournament</th>
                         <th>Round</th>
-                        <th class="winner-col">Player 1</th>
-                        <th>Rank</th>
+                        <!-- FIXED: Restored clean header tags here -->
+                        <th>Player 1</th>
+                        <th>Rank 1</th>
                         <th>Player 2</th>
-                        <th>Rank</th>
+                        <th>Rank 2</th>
                         <th>Odds</th>
                         <th class="score-col">Score</th>
                     </tr>
@@ -31,9 +32,20 @@
                         <td class="date-col">{{ m.Date }}</td>
                         <td>{{ m.Tournament }}</td>
                         <td>{{ m.Round }}</td>
-                        <td><strong>{{ m.Player_1 }}</strong></td>
+
+                        <!-- FIXED: Applied the hyperlinks safely inside the loop -->
+                        <td>
+                            <a href="{{ get_atp_url(m.Player_1) }}" target="_blank" class="text-light player-link">
+                                <strong>{{ m.Player_1 }}</strong>
+                            </a>
+                        </td>
                         <td><span class="badge rank-win">#{{ m.Rank_1 }}</span></td>
-                        <td>{{ m.Player_2 }}</td>
+                        <td>
+                            <a href="{{ get_atp_url(m.Player_2) }}" target="_blank" class="text-light player-link">
+                                {{ m.Player_2 }}
+                            </a>
+                        </td>
+
                         <td>{% if m.Rank_2 != 'NR' %}<span class="badge rank-lose">#{{ m.Rank_2 }}</span>{% endif %}</td>
                         <td>{% if m.Odd_1 != '—' %}<span class="odds">{{ m.Odd_1 }}</span>{% endif %}</td>
                         <td><code>{{ m.Score }}</code></td>

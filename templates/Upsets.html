@@ -34,9 +34,17 @@
                         <td class="date-col">{{ m.Date }}</td>
                         <td>{{ m.Tournament }}</td>
                         <td>{{ m.Round }}</td>
-                        <td><strong>{{ m.Underdog_Player }}</strong></td>
+                        <td>
+                            <a href="{{ get_atp_url(m.Underdog_Player) }}" target="_blank" class="text-light player-link">
+                                <strong>{{ m.Underdog_Player }}</strong>
+                            </a>
+                        </td>
                         <td><span class="badge rank-win">#{{ m.Winner_Rank }}</span></td>
-                        <td>{{ m.Loser }}</td>
+                        <td>
+                            <a href="{{ get_atp_url(m.Loser) }}" target="_blank" class="text-light player-link">
+                                {{ m.Loser }}
+                            </a>
+                        </td>
                         <td>{% if m.Loser_Rank != 'NR' %}<span class="badge rank-lose">#{{ m.Loser_Rank }}</span>{% endif %}</td>
                         <td>{% if m.Winner_Odds != '—' %}<span class="odds">{{ m.Winner_Odds }}</span>{% endif %}</td>
                         <td><code>{{ m.Score }}</code></td>

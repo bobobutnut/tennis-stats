@@ -5,7 +5,64 @@ import os
 app = Flask(__name__)
 CSV_PATH = os.path.join(app.root_path, 'data', 'atp_tennis.csv')
 
+# Load player ID mapping
+PLAYER_MAP_PATH = os.path.join(app.root_path, 'data', 'ATP_Database.csv')
 
+
+def load_player_map():
+    if os.path.exists(PLAYER_MAP_PATH):
+        try:
+            df = pd.read_csv(PLAYER_MAP_PATH, encoding='utf-8-sig')
+        except UnicodeDecodeError:
+            df = pd.read_csv(PLAYER_MAP_PATH, encoding='latin1')
+
+        player_map = {}
+        for _, row in df.iterrows():
+            full_name = str(row['player']).strip()
+            code = str(row['id']).strip()
+
+            if full_name and code:
+                # 1. Store the exact mapping name for full matches
+                player_map[full_name] = {"code": code, "slug": full_name}
+
+                # 2. Generate a shorthand code to match match-history (e.g., "Alexander Zverev" -> "Zverev A.")
+                name_parts = full_name.split()
+                if len(name_parts) >= 2:
+                    first_name = name_parts[0]
+                    # Handle multi-part last names safely by joining the rest
+                    last_name = " ".join(name_parts[1:])
+                    short_name = f"{last_name} {first_name[0]}."
+
+                    # Store the accurate code and the full name slug for the URL
+                    player_map[short_name] = {"code": code, "slug": full_name}
+
+        return player_map
+    return {}
+
+player_id_map = load_player_map()
+
+
+def get_atp_profile_url(player_name):
+    if not player_name or pd.isna(player_name):
+        return "#"
+
+    name = str(player_name).strip()
+    player_data = player_id_map.get(name)
+
+    if player_data:
+        # Pull the accurate ID code and generate the pristine ATP URL slug
+        code = player_data["code"]
+        full_name_slug = player_data["slug"].lower().replace(" ", "-").replace(".", "").replace("'", "")
+        return f"https://www.atptour.com/en/players/{full_name_slug}/{code}/overview"
+    else:
+        # Fallback to search if the player isn't in ATP_Database.csv at all
+        last_name = name.split()[0] if ' ' in name else name
+        return f"https://www.atptour.com/en/players/search?query={last_name}"
+
+# Inject the helper function globally into all Jinja templates
+@app.context_processor
+def inject_atp_url_helper():
+    return dict(get_atp_url=get_atp_profile_url)
 def check_score(score1, score2, score3, score4):
     return abs(score1 + score3 - score2 - score4) > 11
 
@@ -97,7 +154,7 @@ def dominant_matches():
     return render_template(
         'dominant.html',
         matches=dominant_list,
-        total=total_dominant
+        total=total_dominant, get_atp_url=get_atp_profile_url
     )
 
 @app.route("/upsets")
@@ -181,7 +238,7 @@ def upset_matches():
     return render_template(
         'Upsets.html',
         matches=dominant_list,
-        total=total_dominant
+        total=total_dominant, get_atp_url=get_atp_profile_url
     )
 
 @app.route("/")
@@ -242,6 +299,7 @@ def recent_matches():
     return render_template(
         'recent.html',
         matches=recent_list
+
     )
 
 @app.route("/search")
@@ -285,7 +343,8 @@ def search_player():
         'search.html',
         matches=matches_list,
         query=player_query,
-        total=len(matches_list)
+        total=len(matches_list),
+        get_atp_url=get_atp_profile_url
     )
 
 if __name__ == '__main__':
