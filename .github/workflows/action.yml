@@ -8,6 +8,9 @@ on:
 jobs:
   download-data:
     runs-on: ubuntu-latest
+    # FIX 1: Grant write permission so the bot can push code back to the repo
+    permissions:
+      contents: write
 
     steps:
     # Step 1: Check out the repository code
@@ -26,7 +29,6 @@ jobs:
         pip install kaggle
 
     # Step 4: Download and overwrite the CSV in the data folder
-    # Replace 'zillow/zecon' with your target dataset slug
     - name: Download Dataset to Data Folder
       env:
         KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
@@ -40,7 +42,14 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        
+        # FIX 2: Ensure the data directory is staged properly
         git add data/
+        
         # Checks if there are actual changes before committing to avoid empty commit errors
-        git diff-index --quiet HEAD || git commit -m "Automated update: Refreshed Kaggle data in data/"
-        git push
+        if ! git diff-index --quiet HEAD --; then
+          git commit -m "Automated update: Refreshed Kaggle data in data/"
+          git push
+        else
+          echo "No changes detected in the dataset. Skipping commit."
+        fi
