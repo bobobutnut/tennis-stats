@@ -66926,7 +66926,7 @@ Open Sud de France,2026-02-05,ATP250,Indoor,Hard,2nd Round,3,Droguet T.,Kovacevi
 Open Sud de France,2026-02-05,ATP250,Indoor,Hard,2nd Round,3,Fils A.,Blanchet U.,Fils A.,42,174,1110,343,1.25,4.0,7-6 7-5
 Open Sud de France,2026-02-05,ATP250,Indoor,Hard,2nd Round,3,Nardi L.,Cobolli F.,Nardi L.,106,20,571,1955,2.1,1.73,6-2 6-3
 Open Sud de France,2026-02-05,ATP250,Indoor,Hard,2nd Round,3,Wawrinka S.,Auger-Aliassime F.,Auger-Aliassime F.,113,8,537,3725,3.5,1.3,4-6 6-7
-Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Damm M.,Nardi L.,Damm M.,160,106,373,571,1.785,2.03,6-3 7-6
+Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Damm M.,Nardi L.,Damm M.,160,106,373,571,1.7850000000000001,2.0300000000000002,6-3 7-6
 Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Droguet T.,Griekspoor T.,Droguet T.,150,29,403,1565,2.5,1.53,7-6 7-6
 Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Fils A.,Auger-Aliassime F.,Auger-Aliassime F.,42,8,1110,3725,2.63,1.5,4-6 2-6
 Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Gea A.,Mannarino A.,Mannarino A.,168,70,353,810,1.73,2.1,7-5 4-6 4-6
@@ -67602,7 +67602,7 @@ Mutua Madrid Open,2026-04-23,Masters 1000,Outdoor,Clay,1st Round,3,Trungelliti M
 Mutua Madrid Open,2026-04-23,Masters 1000,Outdoor,Clay,1st Round,3,Ugo Carabelli C.,Monfils G.,Ugo Carabelli C.,57,200,865,290,1.5,2.63,6-3 6-4
 Mutua Madrid Open,2026-04-23,Masters 1000,Outdoor,Clay,1st Round,3,Vallejo D.,Dimitrov G.,Vallejo D.,96,137,640,455,1.91,1.91,6-4 6-4
 Mutua Madrid Open,2026-04-23,Masters 1000,Outdoor,Clay,1st Round,3,Walton A.,Landaluce M.,Walton A.,117,99,547,634,4.5,1.2,6-2 6-3
-Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,Bonzi B.,Sinner J.,Sinner J.,104,1,616,13350,34.0,1.015,7-6 1-6 4-6
+Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,Bonzi B.,Sinner J.,Sinner J.,104,1,616,13350,34.0,1.0150000000000001,7-6 1-6 4-6
 Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,De Minaur A.,Jodar R.,Jodar R.,8,42,3845,1080,1.73,2.1,3-6 1-6
 Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,Etcheverry T.,Ofner S.,Etcheverry T.,29,83,1590,698,1.57,2.38,6-4 6-4
 Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,Fils A.,Buse I.,Fils A.,25,58,1740,864,1.14,5.5,6-7 7-6 7-5
@@ -68053,7 +68053,7 @@ Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Collignon R
 Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Diallo G.,Atmane T.,Diallo G.,91,50,685,982,1.73,2.1,6-7 6-4 7-5
 Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Draper J.,Giron M.,Draper J.,160,86,360,705,1.36,3.2,6-4 7-6
 Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Munar J.,Bergs Z.,Bergs Z.,44,48,1065,1010,2.2,1.67,2-6 4-6
-Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Trungelliti M.,Pinnington Jones J.,Pinnington Jones J.,94,145,670,409,2.85,1.39,7-5 3-6 5-7
+Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Trungelliti M.,Pinnington Jones J.,Pinnington Jones J.,94,145,670,409,2.8499999999999996,1.39,7-5 3-6 5-7
 Mallorca Championships,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Ghibaudo A.,Kecmanovic M.,Kecmanovic M.,303,51,177,980,5.5,1.14,6-2 3-6 6-7
 Mallorca Championships,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Molcan A.,Marozsan F.,Marozsan F.,102,62,626,895,2.1,1.73,6-2 6-7 6-7
 Mallorca Championships,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Royer V.,Quinn E.,Quinn E.,75,63,798,894,3.0,1.4,4-6 3-6
@@ -68634,3 +68634,128 @@ Winston-Salem Open at Wake Forest University,2026-08-28,ATP250,Outdoor,Hard,Quar
 Winston-Salem Open at Wake Forest University,2026-08-28,ATP250,Outdoor,Hard,Quarterfinals,3,Kovacevic A.,Fery A.,Fery A.,89,37,690,1253,1.91,1.91,6-3 5-7 3-6
 Winston-Salem Open at Wake Forest University,2026-08-28,ATP250,Outdoor,Hard,Semifinals,3,Bonzi B.,Buse I.,Buse I.,109,36,572,1310,1.73,2.1,2-6 6-4 1-6
 Winston-Salem Open at Wake Forest University,2026-08-29,ATP250,Outdoor,Hard,The Final,3,Buse I.,Fery A.,Buse I.,36,37,1310,1253,2.1,1.73,6-3 6-2
+US Open,2026-08-30,Grand Slam,Outdoor,Hard,1st Round,5,Carreno Busta P.,Lehecka J.,Lehecka J.,66,19,899,2420,4.5,1.2,1-6 6-7 6-4 2-6
+US Open,2026-08-30,Grand Slam,Outdoor,Hard,1st Round,5,Faria J.,Brooksby J.,Faria J.,72,74,847,803,2.0,1.8,6-3 7-6 4-6 1-6 6-2
+US Open,2026-08-30,Grand Slam,Outdoor,Hard,1st Round,5,Gaston H.,Medvedev D.,Medvedev D.,91,8,697,3580,6.0,1.13,4-6 2-6 4-6
+US Open,2026-08-30,Grand Slam,Outdoor,Hard,1st Round,5,Kennedy J.,Harris L.,Harris L.,394,139,129,428,5.5,1.14,4-6 2-6 2-6
+US Open,2026-08-30,Grand Slam,Outdoor,Hard,1st Round,5,Kopriva V.,Etcheverry T.,Etcheverry T.,69,32,883,1440,2.5,1.53,3-6 4-6 0-6
+US Open,2026-08-30,Grand Slam,Outdoor,Hard,1st Round,5,Machac T.,Samuel T.,Samuel T.,58,110,960,567,2.3,1.62,2-6 3-6 2-6
+US Open,2026-08-30,Grand Slam,Outdoor,Hard,1st Round,5,Majchrzak K.,Medjedovic H.,Majchrzak K.,73,79,827,764,1.73,2.1,6-3 6-3 6-3
+US Open,2026-08-30,Grand Slam,Outdoor,Hard,1st Round,5,Merida Aguilar D.,Fucsovics M.,Merida Aguilar D.,39,122,1157,510,1.2,4.5,6-4 6-4 6-2
+US Open,2026-08-30,Grand Slam,Outdoor,Hard,1st Round,5,Munar J.,Atmane T.,Munar J.,55,92,990,687,2.5,1.53,6-7 3-6 6-1 7-6 7-5
+US Open,2026-08-30,Grand Slam,Outdoor,Hard,1st Round,5,Prizmic D.,Shevchenko A.,Prizmic D.,102,98,618,655,1.36,3.2,2-6 6-3 6-3 5-7 7-5
+US Open,2026-08-30,Grand Slam,Outdoor,Hard,1st Round,5,Shapovalov D.,Kecmanovic M.,Shapovalov D.,48,64,1065,925,1.73,2.1,6-4 4-6 6-4 6-1
+US Open,2026-08-30,Grand Slam,Outdoor,Hard,1st Round,5,Shimabukuro S.,Rinderknech A.,Rinderknech A.,88,29,705,1683,4.0,1.25,7-6 2-6 6-7 2-6
+US Open,2026-08-30,Grand Slam,Outdoor,Hard,1st Round,5,Van Assche L.,Norrie C.,Van Assche L.,40,35,1140,1365,2.75,1.44,6-7 6-2 6-2 6-3
+US Open,2026-08-30,Grand Slam,Outdoor,Hard,1st Round,5,Walton A.,Wu Y.,Wu Y.,93,113,670,551,1.73,2.1,6-7 2-6 5-7
+US Open,2026-08-30,Grand Slam,Outdoor,Hard,1st Round,5,Wong C.,Paul T.,Paul T.,94,21,668,2225,5.5,1.14,7-6 1-6 3-6 3-6
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Baez S.,Nakashima B.,Nakashima B.,51,17,1044,2485,6.0,1.13,2-6 1-6 0-6
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Barrios M.,Blockx A.,Blockx A.,144,34,395,1396,5.0,1.17,3-6 4-6 2-6
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Borges N.,Tien L.,Tien L.,41,15,1135,2565,2.63,1.5,4-6 1-6 2-6
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Burruchaga R.,Khachanov K.,Khachanov K.,59,50,960,1050,4.0,1.25,3-6 0-6 1-6
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Cina F.,Michelsen A.,Michelsen A.,181,46,312,1070,5.5,1.14,4-6 1-6 0-6
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Collignon R.,Gorzny S.,Gorzny S.,38,731,1207,43,1.13,6.0,6-3 3-6 6-3 3-6 6-7
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Darderi L.,Wendelken H.,Darderi L.,22,196,2175,285,1.3,3.5,6-2 3-6 6-2 7-5
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Duckworth J.,Arnaldi M.,Duckworth J.,71,36,853,1349,2.38,1.57,5-7 6-3 6-2 7-6
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Dzumhur D.,Hurkacz H.,Hurkacz H.,104,47,612,1070,9.0,1.07,4-6 6-4 1-6 1-6
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Fearnley J.,Landaluce M.,Fearnley J.,101,65,623,922,2.0,1.8,4-6 6-2 4-6 7-5 6-3
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Halys Q.,Diaz Acosta F.,Halys Q.,52,82,1030,732,1.33,3.4,6-4 7-5 6-7 6-1
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Navone M.,Djokovic N.,Navone M.,49,5,1065,3770,5.5,1.14,7-6 5-7 4-6 6-2 6-1
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Rodionov J.,Mpetshi G.,Rodionov J.,143,105,395,600,1.8,2.0,7-6 6-0 7-6
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Safiullin R.,Alcaraz C.,Alcaraz C.,99,3,634,7160,5.0,1.17,4-6 4-6 4-6
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Sakamoto R.,Vukic A.,Sakamoto R.,157,96,357,659,1.62,2.3,6-4 6-7 6-4 3-6 6-4
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Svrcina D.,Royer V.,Svrcina D.,134,75,445,778,2.0,1.8,6-4 6-3 5-7 5-7 6-2
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Tabilo A.,Hanfmann Y.,Tabilo A.,28,54,1688,991,1.73,2.1,6-3 6-2 6-7 6-3
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Tirante T.A.,Mannarino A.,Mannarino A.,42,67,1125,895,1.36,3.2,6-4 6-3 3-6 3-6 3-6
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Trungelliti M.,Shang J.,Trungelliti M.,83,228,731,245,2.75,1.44,0-6 7-6 1-6 6-3 6-4
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Tsitsipas S.,Fils A.,Tsitsipas S.,53,11,1015,3140,5.0,1.17,4-6 7-6 6-1 6-4
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Vacherot V.,Kovacevic A.,Vacherot V.,23,84,2168,730,1.8,2.0,6-2 6-3 7-5
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Virtanen O.,Rublev A.,Rublev A.,109,24,574,2080,5.5,1.14,7-6 7-6 0-6 2-6 6-7
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Wawrinka S.,Berrettini M.,Berrettini M.,127,43,486,1115,4.33,1.22,6-7 6-7 0-6
+US Open,2026-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Wolf J.J.,Bublik A.,Bublik A.,253,16,225,2525,3.0,1.4,4-6 2-6 6-3 1-6
+US Open,2026-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Auger-Aliassime F.,Hijikata R.,Auger-Aliassime F.,4,85,4640,724,1.08,8.0,7-5 4-6 6-3 7-5
+US Open,2026-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Cerundolo J.M.,Gea A.,Gea A.,45,87,1076,709,2.1,1.73,3-6 6-2 6-3 3-6 1-6
+US Open,2026-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Comesana F.,Cobolli F.,Cobolli F.,119,6,516,3720,4.5,1.2,6-3 6-2 3-6 4-6 4-6
+US Open,2026-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Dimitrov G.,Popyrin A.,Popyrin A.,137,130,432,458,1.5,2.63,6-3 3-6 2-6 4-6
+US Open,2026-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Fritz T.,Blanch Dar.,Fritz T.,10,245,3475,232,1.02,19.0,6-3 6-2 6-4
+US Open,2026-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Misolic F.,Cerundolo F.,Cerundolo F.,537,25,80,1980,10.0,1.06,4-6 3-6 5-7
+US Open,2026-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Mochizuki S.,Mensik J.,Mensik J.,117,18,532,2445,8.0,1.08,1-6 4-6 5-7
+US Open,2026-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Musetti L.,Fery A.,Musetti L.,14,33,2605,1415,1.29,3.75,6-3 6-3 7-5
+US Open,2026-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Piros Z.,Bellucci M.,Bellucci M.,118,95,530,659,2.75,1.44,4-6 2-6 0-6
+US Open,2026-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Schoolkate T.,Basavareddy N.,Schoolkate T.,180,163,313,348,3.5,1.3,7-6 3-6 6-3 6-4
+US Open,2026-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Shelton B.,Griekspoor T.,Shelton B.,9,56,3480,975,1.1,7.0,1-6 6-1 7-6 6-2
+US Open,2026-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Struff J.L.,Ugo Carabelli C.,Struff J.L.,218,77,362,770,1.44,2.75,6-4 6-3 6-3
+US Open,2026-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Tiafoe F.,Damm M.,Tiafoe F.,12,90,2680,697,1.25,4.0,6-4 4-6 3-6 6-3 6-4
+US Open,2026-09-02,Grand Slam,Outdoor,Hard,1st Round,5,Altmaier D.,Svajda Z.,Svajda Z.,57,80,964,759,2.3,1.62,3-6 1-6 7-6 2-6
+US Open,2026-09-02,Grand Slam,Outdoor,Hard,1st Round,5,Bonzi B.,Molcan A.,Bonzi B.,97,86,656,710,1.4,3.0,6-4 3-6 6-3 6-2
+US Open,2026-09-02,Grand Slam,Outdoor,Hard,1st Round,5,Buse I.,Giron M.,Buse I.,30,78,1550,765,1.57,2.38,3-6 6-3 6-3 6-7 6-1
+US Open,2026-09-02,Grand Slam,Outdoor,Hard,1st Round,5,Choinski J.,Van De Zandschulp B.,Van De Zandschulp B.,76,70,773,868,4.0,1.25,3-6 1-6 6-7
+US Open,2026-09-02,Grand Slam,Outdoor,Hard,1st Round,5,De Jong J.,Passaro F.,De Jong J.,100,207,628,270,1.73,2.1,2-6 6-2 4-6 6-3 6-2
+US Open,2026-09-02,Grand Slam,Outdoor,Hard,1st Round,5,De Minaur A.,Guerrieri A.,De Minaur A.,7,187,3650,301,1.04,13.0,6-2 6-2 6-4
+US Open,2026-09-02,Grand Slam,Outdoor,Hard,1st Round,5,Jodar R.,Bu Y.,Bu Y.,13,124,2671,496,1.07,9.0,2-6 1-6 1-6
+US Open,2026-09-02,Grand Slam,Outdoor,Hard,1st Round,5,Marozsan F.,Zheng M.,Zheng M.,63,107,930,590,2.38,1.57,4-6 4-6 2-6
+US Open,2026-09-02,Grand Slam,Outdoor,Hard,1st Round,5,Taberner C.,Bergs Z.,Bergs Z.,406,37,121,1345,13.0,1.04,3-6 6-3 2-6 2-6
+US Open,2026-09-02,Grand Slam,Outdoor,Hard,1st Round,5,Vallejo D.,Monfils G.,Monfils G.,60,311,954,180,1.67,2.2,6-2 1-6 2-6 0-6
+US Open,2026-09-02,Grand Slam,Outdoor,Hard,1st Round,5,Zverev A.,Sonego L.,Zverev A.,2,89,7790,698,1.05,11.0,6-4 3-6 6-7 7-5 6-4
+US Open,2026-09-02,Grand Slam,Outdoor,Hard,2nd Round,5,Duckworth J.,Wu Y.,Wu Y.,71,113,853,551,2.2,1.67,5-7 3-6 1-6
+US Open,2026-09-02,Grand Slam,Outdoor,Hard,2nd Round,5,Fearnley J.,Etcheverry T.,Etcheverry T.,101,32,623,1440,2.2,1.67,3-6 3-6 6-3 3-6
+US Open,2026-09-02,Grand Slam,Outdoor,Hard,2nd Round,5,Harris L.,Tsitsipas S.,Tsitsipas S.,139,53,428,1015,3.0,1.4,7-6 3-6 6-7 4-6
+US Open,2026-09-02,Grand Slam,Outdoor,Hard,2nd Round,5,Lehecka J.,Samuel T.,Lehecka J.,19,110,2420,567,1.36,3.2,6-4 6-2 6-4
+US Open,2026-09-02,Grand Slam,Outdoor,Hard,2nd Round,5,Medvedev D.,Gorzny S.,Medvedev D.,8,731,3580,43,1.04,13.0,6-1 6-3 7-5
+US Open,2026-09-02,Grand Slam,Outdoor,Hard,2nd Round,5,Nakashima B.,Michelsen A.,Michelsen A.,17,46,2485,1070,1.44,2.75,3-6 4-6 4-6
+US Open,2026-09-02,Grand Slam,Outdoor,Hard,2nd Round,5,Navone M.,Berrettini M.,Navone M.,49,43,1065,1115,2.3,1.62,3-6 6-3 6-4 7-6
+US Open,2026-09-02,Grand Slam,Outdoor,Hard,2nd Round,5,Rinderknech A.,Munar J.,Rinderknech A.,29,55,1683,990,1.57,2.38,7-6 6-2 7-5
+US Open,2026-09-02,Grand Slam,Outdoor,Hard,2nd Round,5,Rublev A.,Merida Aguilar D.,Merida Aguilar D.,24,39,2080,1157,1.67,2.2,7-6 2-6 4-6 4-6
+US Open,2026-09-02,Grand Slam,Outdoor,Hard,2nd Round,5,Shapovalov D.,Van Assche L.,Shapovalov D.,48,40,1065,1140,1.62,2.3,6-0 6-4 7-6
+US Open,2026-09-02,Grand Slam,Outdoor,Hard,2nd Round,5,Shelton B.,Hurkacz H.,Shelton B.,9,47,3480,1070,1.4,3.0,6-3 5-7 7-6 7-5
+US Open,2026-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Bellucci M.,Fritz T.,Fritz T.,95,10,659,3475,6.5,1.11,0-6 1-6 1-6
+US Open,2026-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Blockx A.,Trungelliti M.,Blockx A.,34,83,1396,731,1.14,5.5,6-3 6-2 3-6 6-1
+US Open,2026-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Buse I.,Bonzi B.,Bonzi B.,30,97,1550,656,1.8,2.0,2-6 6-7 0-6
+US Open,2026-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Darderi L.,Svrcina D.,Darderi L.,22,134,2175,445,1.67,2.2,6-3 6-7 6-4 6-4
+US Open,2026-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,De Jong J.,Bergs Z.,Bergs Z.,100,37,628,1345,3.0,1.4,5-7 6-1 2-6 6-7
+US Open,2026-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Faria J.,Alcaraz C.,Alcaraz C.,72,3,847,7160,10.0,1.06,6-4 0-6 3-6 2-6
+US Open,2026-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Gea A.,Svajda Z.,Gea A.,87,80,709,759,2.2,1.67,5-7 6-3 6-2 6-2
+US Open,2026-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Khachanov K.,Auger-Aliassime F.,Khachanov K.,50,4,1050,4640,3.4,1.33,6-7 6-3 6-2 6-2
+US Open,2026-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Mannarino A.,Bublik A.,Bublik A.,67,16,895,2525,4.0,1.25,3-6 1-6 1-6
+US Open,2026-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Mensik J.,Rodionov J.,Mensik J.,18,143,2445,395,1.11,6.5,6-3 3-6 6-2 6-3
+US Open,2026-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Musetti L.,Sweeny D.,Sweeny D.,14,123,2605,506,1.05,11.0,6-3 1-6 2-6 2-6
+US Open,2026-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Paul T.,Prizmic D.,Paul T.,21,102,2225,618,1.17,5.0,6-2 6-3 5-7 6-4
+US Open,2026-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Sakamoto R.,Tiafoe F.,Tiafoe F.,157,12,357,2680,4.0,1.25,3-6 6-7 5-7
+US Open,2026-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Schoolkate T.,Cobolli F.,Cobolli F.,180,6,313,3720,4.5,1.2,6-3 3-6 4-6 5-7
+US Open,2026-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Struff J.L.,Cerundolo F.,Cerundolo F.,218,25,362,1980,2.38,1.57,7-5 5-7 6-4 2-6 3-6
+US Open,2026-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Tabilo A.,Popyrin A.,Tabilo A.,28,130,1688,458,1.62,2.3,2-6 7-6 7-6 6-2
+US Open,2026-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Vacherot V.,Majchrzak K.,Vacherot V.,23,73,2168,827,1.73,2.1,6-4 4-6 7-6 6-2
+US Open,2026-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Van De Zandschulp B.,De Minaur A.,Van De Zandschulp B.,70,7,868,3650,3.4,1.33,6-4 7-5 6-2
+US Open,2026-09-04,Grand Slam,Outdoor,Hard,2nd Round,5,Halys Q.,Zverev A.,Zverev A.,52,2,1030,7790,5.5,1.14,4-6 6-4 6-7 7-6 3-6
+US Open,2026-09-04,Grand Slam,Outdoor,Hard,2nd Round,5,Monfils G.,Tien L.,Tien L.,311,15,180,2565,5.0,1.17,3-6 4-6 3-6
+US Open,2026-09-04,Grand Slam,Outdoor,Hard,2nd Round,5,Zheng M.,Bu Y.,Zheng M.,107,124,590,496,1.53,2.5,6-3 2-6 6-2 6-3
+US Open,2026-09-04,Grand Slam,Outdoor,Hard,3rd Round,5,Alcaraz C.,Wu Y.,Alcaraz C.,3,113,7160,551,1.05,11.0,6-3 6-4 6-1
+US Open,2026-09-04,Grand Slam,Outdoor,Hard,3rd Round,5,Bublik A.,Paul T.,Paul T.,16,21,2525,2225,2.5,1.53,4-6 6-3 7-6 1-6 3-6
+US Open,2026-09-04,Grand Slam,Outdoor,Hard,3rd Round,5,Etcheverry T.,Navone M.,Etcheverry T.,32,49,1440,1065,1.67,2.2,6-4 6-4 6-3
+US Open,2026-09-04,Grand Slam,Outdoor,Hard,3rd Round,5,Lehecka J.,Tsitsipas S.,Tsitsipas S.,19,53,2420,1015,1.53,2.5,6-2 1-6 6-7 1-6
+US Open,2026-09-04,Grand Slam,Outdoor,Hard,3rd Round,5,Medvedev D.,Rinderknech A.,Medvedev D.,8,29,3580,1683,1.33,3.4,6-4 6-4 6-4
+US Open,2026-09-04,Grand Slam,Outdoor,Hard,3rd Round,5,Merida Aguilar D.,Michelsen A.,Michelsen A.,39,46,1157,1070,2.5,1.53,6-7 4-6 3-6
+US Open,2026-09-05,Grand Slam,Outdoor,Hard,3rd Round,5,Bergs Z.,Van De Zandschulp B.,Van De Zandschulp B.,37,70,1345,868,2.63,1.5,6-3 6-7 6-4 6-7 3-6
+US Open,2026-09-05,Grand Slam,Outdoor,Hard,3rd Round,5,Cerundolo F.,Fritz T.,Cerundolo F.,25,10,1980,3475,6.5,1.11,3-6 4-6 6-3 6-4 6-4
+US Open,2026-09-05,Grand Slam,Outdoor,Hard,3rd Round,5,Cobolli F.,Blockx A.,Blockx A.,6,34,3720,1396,1.8,2.0,7-6 3-6 0-6 3-6
+US Open,2026-09-05,Grand Slam,Outdoor,Hard,3rd Round,5,Gea A.,Zheng M.,Gea A.,87,107,709,590,2.2,1.67,7-6 3-6 4-6 6-3 6-2
+US Open,2026-09-05,Grand Slam,Outdoor,Hard,3rd Round,5,Khachanov K.,Bonzi B.,Khachanov K.,50,97,1050,656,1.4,3.0,6-3 6-2 6-4
+US Open,2026-09-05,Grand Slam,Outdoor,Hard,3rd Round,5,Shapovalov D.,Shelton B.,Shelton B.,48,9,1065,3480,4.33,1.22,6-7 7-6 3-6 4-6
+US Open,2026-09-05,Grand Slam,Outdoor,Hard,3rd Round,5,Sweeny D.,Darderi L.,Darderi L.,123,22,506,2175,3.75,1.29,4-6 3-6 3-6
+US Open,2026-09-05,Grand Slam,Outdoor,Hard,3rd Round,5,Tiafoe F.,Vacherot V.,Tiafoe F.,12,23,2680,2168,1.5,2.63,6-4 6-2 6-4
+US Open,2026-09-06,Grand Slam,Outdoor,Hard,3rd Round,5,Tabilo A.,Zverev A.,Zverev A.,28,2,1688,7790,5.0,1.17,2-6 6-7 2-6
+US Open,2026-09-06,Grand Slam,Outdoor,Hard,3rd Round,5,Tien L.,Mensik J.,Tien L.,15,18,2565,2445,1.73,2.1,6-3 1-6 6-7 6-3 6-4
+US Open,2026-09-06,Grand Slam,Outdoor,Hard,4th Round,5,Alcaraz C.,Paul T.,Alcaraz C.,3,21,7160,2225,1.2,4.5,6-4 6-3 6-4
+US Open,2026-09-06,Grand Slam,Outdoor,Hard,4th Round,5,Etcheverry T.,Michelsen A.,Michelsen A.,32,46,1440,1070,3.5,1.3,6-7 4-6 4-6
+US Open,2026-09-06,Grand Slam,Outdoor,Hard,4th Round,5,Tiafoe F.,Medvedev D.,Tiafoe F.,12,8,2680,3580,2.38,1.57,7-6 6-4 7-6
+US Open,2026-09-07,Grand Slam,Outdoor,Hard,4th Round,5,Blockx A.,Cerundolo F.,Blockx A.,34,25,1396,1980,1.62,2.3,6-3 4-6 7-5 7-5
+US Open,2026-09-07,Grand Slam,Outdoor,Hard,4th Round,5,Gea A.,Van De Zandschulp B.,Van De Zandschulp B.,87,70,709,868,2.38,1.57,6-3 7-6 6-7 6-7 4-6
+US Open,2026-09-07,Grand Slam,Outdoor,Hard,4th Round,5,Khachanov K.,Tien L.,Khachanov K.,50,15,1050,2565,2.5,1.53,7-5 4-6 6-7 6-1 6-4
+US Open,2026-09-07,Grand Slam,Outdoor,Hard,4th Round,5,Tsitsipas S.,Shelton B.,Shelton B.,53,9,1015,3480,3.4,1.33,2-6 3-6 4-6
+US Open,2026-09-08,Grand Slam,Outdoor,Hard,4th Round,5,Darderi L.,Zverev A.,Zverev A.,22,2,2175,7790,8.0,1.08,2-6 2-6 6-7
+US Open,2026-09-08,Grand Slam,Outdoor,Hard,Quarterfinals,5,Tiafoe F.,Michelsen A.,Tiafoe F.,12,46,2680,1070,1.62,2.3,5-7 3-6 7-5 6-3 7-6
+US Open,2026-09-09,Grand Slam,Outdoor,Hard,Quarterfinals,5,Alcaraz C.,Shelton B.,Shelton B.,3,9,7160,3480,1.25,4.0,7-6 1-6 3-6 6-1 6-7
+US Open,2026-09-10,Grand Slam,Outdoor,Hard,Quarterfinals,5,Zverev A.,Van De Zandschulp B.,Zverev A.,2,70,7790,868,1.11,6.5,6-2 7-5 6-1
+US Open,2026-09-11,Grand Slam,Outdoor,Hard,Semifinals,5,Khachanov K.,Zverev A.,Zverev A.,50,2,1050,7790,4.5,1.2,3-6 6-7 6-7
+US Open,2026-09-12,Grand Slam,Outdoor,Hard,Semifinals,5,Shelton B.,Tiafoe F.,Shelton B.,9,12,3480,2680,1.33,3.4,4-6 6-3 6-3 7-5
+US Open,2026-09-13,Grand Slam,Outdoor,Hard,The Final,5,Shelton B.,Zverev A.,Zverev A.,9,2,3480,7790,2.3,1.67,3-6 6-7 7-5 2-6
