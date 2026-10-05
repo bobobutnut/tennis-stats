@@ -66926,7 +66926,7 @@ Open Sud de France,2026-02-05,ATP250,Indoor,Hard,2nd Round,3,Droguet T.,Kovacevi
 Open Sud de France,2026-02-05,ATP250,Indoor,Hard,2nd Round,3,Fils A.,Blanchet U.,Fils A.,42,174,1110,343,1.25,4.0,7-6 7-5
 Open Sud de France,2026-02-05,ATP250,Indoor,Hard,2nd Round,3,Nardi L.,Cobolli F.,Nardi L.,106,20,571,1955,2.1,1.73,6-2 6-3
 Open Sud de France,2026-02-05,ATP250,Indoor,Hard,2nd Round,3,Wawrinka S.,Auger-Aliassime F.,Auger-Aliassime F.,113,8,537,3725,3.5,1.3,4-6 6-7
-Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Damm M.,Nardi L.,Damm M.,160,106,373,571,1.785,2.03,6-3 7-6
+Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Damm M.,Nardi L.,Damm M.,160,106,373,571,1.7850000000000001,2.0300000000000002,6-3 7-6
 Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Droguet T.,Griekspoor T.,Droguet T.,150,29,403,1565,2.5,1.53,7-6 7-6
 Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Fils A.,Auger-Aliassime F.,Auger-Aliassime F.,42,8,1110,3725,2.63,1.5,4-6 2-6
 Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Gea A.,Mannarino A.,Mannarino A.,168,70,353,810,1.73,2.1,7-5 4-6 4-6
@@ -67602,7 +67602,7 @@ Mutua Madrid Open,2026-04-23,Masters 1000,Outdoor,Clay,1st Round,3,Trungelliti M
 Mutua Madrid Open,2026-04-23,Masters 1000,Outdoor,Clay,1st Round,3,Ugo Carabelli C.,Monfils G.,Ugo Carabelli C.,57,200,865,290,1.5,2.63,6-3 6-4
 Mutua Madrid Open,2026-04-23,Masters 1000,Outdoor,Clay,1st Round,3,Vallejo D.,Dimitrov G.,Vallejo D.,96,137,640,455,1.91,1.91,6-4 6-4
 Mutua Madrid Open,2026-04-23,Masters 1000,Outdoor,Clay,1st Round,3,Walton A.,Landaluce M.,Walton A.,117,99,547,634,4.5,1.2,6-2 6-3
-Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,Bonzi B.,Sinner J.,Sinner J.,104,1,616,13350,34.0,1.015,7-6 1-6 4-6
+Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,Bonzi B.,Sinner J.,Sinner J.,104,1,616,13350,34.0,1.0150000000000001,7-6 1-6 4-6
 Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,De Minaur A.,Jodar R.,Jodar R.,8,42,3845,1080,1.73,2.1,3-6 1-6
 Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,Etcheverry T.,Ofner S.,Etcheverry T.,29,83,1590,698,1.57,2.38,6-4 6-4
 Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,Fils A.,Buse I.,Fils A.,25,58,1740,864,1.14,5.5,6-7 7-6 7-5
@@ -68053,7 +68053,7 @@ Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Collignon R
 Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Diallo G.,Atmane T.,Diallo G.,91,50,685,982,1.73,2.1,6-7 6-4 7-5
 Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Draper J.,Giron M.,Draper J.,160,86,360,705,1.36,3.2,6-4 7-6
 Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Munar J.,Bergs Z.,Bergs Z.,44,48,1065,1010,2.2,1.67,2-6 4-6
-Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Trungelliti M.,Pinnington Jones J.,Pinnington Jones J.,94,145,670,409,2.85,1.39,7-5 3-6 5-7
+Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Trungelliti M.,Pinnington Jones J.,Pinnington Jones J.,94,145,670,409,2.8499999999999996,1.39,7-5 3-6 5-7
 Mallorca Championships,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Ghibaudo A.,Kecmanovic M.,Kecmanovic M.,303,51,177,980,5.5,1.14,6-2 3-6 6-7
 Mallorca Championships,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Molcan A.,Marozsan F.,Marozsan F.,102,62,626,895,2.1,1.73,6-2 6-7 6-7
 Mallorca Championships,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Royer V.,Quinn E.,Quinn E.,75,63,798,894,3.0,1.4,4-6 3-6
@@ -68759,3 +68759,57 @@ US Open,2026-09-10,Grand Slam,Outdoor,Hard,Quarterfinals,5,Zverev A.,Van De Zand
 US Open,2026-09-11,Grand Slam,Outdoor,Hard,Semifinals,5,Khachanov K.,Zverev A.,Zverev A.,50,2,1050,7790,4.5,1.2,3-6 6-7 6-7
 US Open,2026-09-12,Grand Slam,Outdoor,Hard,Semifinals,5,Shelton B.,Tiafoe F.,Shelton B.,9,12,3480,2680,1.33,3.4,4-6 6-3 6-3 7-5
 US Open,2026-09-13,Grand Slam,Outdoor,Hard,The Final,5,Shelton B.,Zverev A.,Zverev A.,9,2,3480,7790,2.3,1.67,3-6 6-7 7-5 2-6
+Chengdu Open,2026-09-23,ATP250,Outdoor,Hard,1st Round,3,Brooksby J.,Baez S.,Brooksby J.,77,51,763,1044,1.57,2.38,7-5 7-5
+Chengdu Open,2026-09-23,ATP250,Outdoor,Hard,1st Round,3,Hu J.,Kopriva V.,Kopriva V.,2082,71,1,831,23.0,1.01,4-6 5-7
+Hangzhou Open,2026-09-23,ATP250,Outdoor,Hard,1st Round,3,Royer V.,Walton A.,Royer V.,104,99,585,630,2.0,1.8,6-3 6-4
+Hangzhou Open,2026-09-23,ATP250,Outdoor,Hard,1st Round,3,Vukic A.,Jacquet K.,Jacquet K.,91,107,647,581,2.0,1.8,6-7 6-3 3-6
+Chengdu Open,2026-09-24,ATP250,Outdoor,Hard,1st Round,3,Damm M.,Mochizuki S.,Damm M.,106,125,583,478,1.5,2.63,6-1 6-4
+Chengdu Open,2026-09-24,ATP250,Outdoor,Hard,1st Round,3,Hurkacz H.,Shevchenko A.,Hurkacz H.,46,109,1120,568,1.2,4.5,6-3 7-6
+Chengdu Open,2026-09-24,ATP250,Outdoor,Hard,1st Round,3,Kecmanovic M.,Basilashvili N.,Basilashvili N.,60,145,925,385,1.57,2.38,6-7 4-6
+Chengdu Open,2026-09-24,ATP250,Outdoor,Hard,1st Round,3,Kouame M.,Muller A.,Muller A.,191,135,293,428,1.91,1.91,4-6 0-6
+Chengdu Open,2026-09-24,ATP250,Outdoor,Hard,1st Round,3,Kovacevic A.,Harris L.,Harris L.,80,136,730,428,2.63,1.5,3-6 4-6
+Chengdu Open,2026-09-24,ATP250,Outdoor,Hard,1st Round,3,Mannarino A.,Shang J.,Mannarino A.,78,253,745,220,2.75,1.44,7-6 6-2
+Chengdu Open,2026-09-24,ATP250,Outdoor,Hard,1st Round,3,Shapovalov D.,Griekspoor T.,Shapovalov D.,50,55,1065,975,1.67,2.2,6-4 7-6
+Chengdu Open,2026-09-24,ATP250,Outdoor,Hard,1st Round,3,Sonego L.,Duckworth J.,Sonego L.,86,65,683,877,1.67,2.2,6-4 6-4
+Chengdu Open,2026-09-24,ATP250,Outdoor,Hard,1st Round,3,Ugo Carabelli C.,Cina F.,Cina F.,75,170,770,337,2.38,1.57,3-6 2-6
+Chengdu Open,2026-09-24,ATP250,Outdoor,Hard,1st Round,3,Zhou Y.,Cerundolo J.M.,Cerundolo J.M.,273,53,203,986,2.75,1.44,4-6 3-6
+Hangzhou Open,2026-09-24,ATP250,Outdoor,Hard,1st Round,3,Atmane T.,Faria J.,Faria J.,83,68,697,871,1.73,2.1,6-3 6-7 4-6
+Hangzhou Open,2026-09-24,ATP250,Outdoor,Hard,1st Round,3,Bellucci M.,Majchrzak K.,Majchrzak K.,88,73,659,777,2.1,1.73,3-6 4-6
+Hangzhou Open,2026-09-24,ATP250,Outdoor,Hard,1st Round,3,Bu Y.,Zheng M.,Bu Y.,111,92,552,642,2.1,1.73,6-4 6-3
+Hangzhou Open,2026-09-24,ATP250,Outdoor,Hard,1st Round,3,Daniel T.,Sweeny D.,Daniel T.,193,110,287,562,1.67,2.2,7-6 6-2
+Hangzhou Open,2026-09-24,ATP250,Outdoor,Hard,1st Round,3,Marozsan F.,Bolt A.,Marozsan F.,59,165,930,348,1.29,3.75,6-4 6-2
+Hangzhou Open,2026-09-24,ATP250,Outdoor,Hard,1st Round,3,Shimabukuro S.,Gaston H.,Gaston H.,93,97,640,634,2.1,1.73,4-6 4-6
+Hangzhou Open,2026-09-24,ATP250,Outdoor,Hard,1st Round,3,Sun F.,Safiullin R.,Safiullin R.,314,102,172,594,4.5,1.2,2-6 0-6
+Hangzhou Open,2026-09-24,ATP250,Outdoor,Hard,1st Round,3,Svrcina D.,Hijikata R.,Hijikata R.,128,82,468,700,1.67,2.2,6-7 4-6
+Hangzhou Open,2026-09-24,ATP250,Outdoor,Hard,1st Round,3,Vallejo D.,Cui J.,Vallejo D.,58,456,939,105,1.33,3.4,6-1 6-7 6-4
+Hangzhou Open,2026-09-24,ATP250,Outdoor,Hard,1st Round,3,Wong C.,Zhang Zh.,Wong C.,108,168,578,340,1.5,2.63,6-3 6-3
+Chengdu Open,2026-09-25,ATP250,Outdoor,Hard,2nd Round,3,Mannarino A.,Tabilo A.,Mannarino A.,78,32,745,1565,2.5,1.53,6-4 6-4
+Chengdu Open,2026-09-25,ATP250,Outdoor,Hard,2nd Round,3,Shapovalov D.,Kopriva V.,Shapovalov D.,50,71,1065,831,1.22,4.33,6-2 6-3
+Chengdu Open,2026-09-25,ATP250,Outdoor,Hard,2nd Round,3,Sonego L.,Brooksby J.,Brooksby J.,86,77,683,763,2.0,1.8,7-5 5-7 2-6
+Chengdu Open,2026-09-25,ATP250,Outdoor,Hard,2nd Round,3,Van De Zandschulp B.,Basilashvili N.,Basilashvili N.,40,145,1258,385,1.44,2.75,4-6 5-7
+Hangzhou Open,2026-09-25,ATP250,Outdoor,Hard,2nd Round,3,Etcheverry T.,Jacquet K.,Jacquet K.,30,107,1590,581,1.57,2.38,2-6 3-6
+Hangzhou Open,2026-09-25,ATP250,Outdoor,Hard,2nd Round,3,Gaston H.,Faria J.,Gaston H.,97,68,634,871,2.63,1.5,4-6 7-6 6-4
+Hangzhou Open,2026-09-25,ATP250,Outdoor,Hard,2nd Round,3,Hijikata R.,Rublev A.,Rublev A.,82,25,700,1930,3.4,1.33,3-6 3-6
+Hangzhou Open,2026-09-25,ATP250,Outdoor,Hard,2nd Round,3,Marozsan F.,Daniel T.,Marozsan F.,59,193,930,287,1.4,3.0,6-7 7-5 7-6
+Chengdu Open,2026-09-26,ATP250,Outdoor,Hard,2nd Round,3,Cina F.,Muller A.,Muller A.,170,135,337,428,2.0,1.8,6-7 1-6
+Chengdu Open,2026-09-26,ATP250,Outdoor,Hard,2nd Round,3,Davidovich Fokina A.,Cerundolo J.M.,Davidovich Fokina A.,29,53,1680,986,1.53,2.5,6-4 6-4
+Chengdu Open,2026-09-26,ATP250,Outdoor,Hard,2nd Round,3,Hurkacz H.,Damm M.,Hurkacz H.,46,106,1120,583,1.4,3.0,4-6 6-3 6-4
+Chengdu Open,2026-09-26,ATP250,Outdoor,Hard,2nd Round,3,Vacherot V.,Harris L.,Harris L.,19,136,2250,428,1.8,2.0,4-6 6-7
+Hangzhou Open,2026-09-26,ATP250,Outdoor,Hard,2nd Round,3,Bu Y.,Majchrzak K.,Bu Y.,111,73,552,777,2.1,1.73,7-6 6-7 6-2
+Hangzhou Open,2026-09-26,ATP250,Outdoor,Hard,2nd Round,3,Halys Q.,Safiullin R.,Safiullin R.,49,102,1070,594,2.1,1.73,7-5 3-6 4-6
+Hangzhou Open,2026-09-26,ATP250,Outdoor,Hard,2nd Round,3,Royer V.,Medvedev D.,Medvedev D.,104,6,585,3770,4.33,1.22,6-7 3-6
+Hangzhou Open,2026-09-26,ATP250,Outdoor,Hard,2nd Round,3,Wong C.,Vallejo D.,Wong C.,108,58,578,939,1.57,2.38,7-6 4-6 6-3
+Chengdu Open,2026-09-27,ATP250,Outdoor,Hard,Quarterfinals,3,Basilashvili N.,Brooksby J.,Basilashvili N.,145,77,385,763,2.2,1.67,6-4 7-6
+Chengdu Open,2026-09-27,ATP250,Outdoor,Hard,Quarterfinals,3,Harris L.,Hurkacz H.,Hurkacz H.,136,46,428,1120,2.5,1.53,6-7 4-6
+Chengdu Open,2026-09-27,ATP250,Outdoor,Hard,Quarterfinals,3,Muller A.,Davidovich Fokina A.,Davidovich Fokina A.,135,29,428,1680,3.5,1.3,1-6 5-7
+Chengdu Open,2026-09-27,ATP250,Outdoor,Hard,Quarterfinals,3,Shapovalov D.,Mannarino A.,Shapovalov D.,50,78,1065,745,1.33,3.4,6-7 6-3 6-2
+Hangzhou Open,2026-09-27,ATP250,Outdoor,Hard,Quarterfinals,3,Bu Y.,Safiullin R.,Safiullin R.,111,102,552,594,2.0,1.8,3-6 3-6
+Hangzhou Open,2026-09-27,ATP250,Outdoor,Hard,Quarterfinals,3,Marozsan F.,Jacquet K.,Jacquet K.,59,107,930,581,1.8,2.0,6-7 4-6
+Hangzhou Open,2026-09-27,ATP250,Outdoor,Hard,Quarterfinals,3,Medvedev D.,Wong C.,Medvedev D.,6,108,3770,578,1.22,4.33,6-3 6-7 6-3
+Hangzhou Open,2026-09-27,ATP250,Outdoor,Hard,Quarterfinals,3,Rublev A.,Gaston H.,Rublev A.,25,97,1930,634,1.2,4.5,6-7 7-6 6-1
+Chengdu Open,2026-09-28,ATP250,Outdoor,Hard,Semifinals,3,Davidovich Fokina A.,Basilashvili N.,Davidovich Fokina A.,29,145,1680,385,1.44,2.75,4-6 6-4 6-3
+Chengdu Open,2026-09-28,ATP250,Outdoor,Hard,Semifinals,3,Shapovalov D.,Hurkacz H.,Hurkacz H.,50,46,1065,1120,2.3,1.62,7-6 3-6 3-6
+Hangzhou Open,2026-09-28,ATP250,Outdoor,Hard,Semifinals,3,Jacquet K.,Rublev A.,Rublev A.,107,25,581,1930,3.5,1.3,6-7 1-6
+Hangzhou Open,2026-09-28,ATP250,Outdoor,Hard,Semifinals,3,Medvedev D.,Safiullin R.,Medvedev D.,6,102,3770,594,1.44,2.75,7-5 6-4
+Chengdu Open,2026-09-29,ATP250,Outdoor,Hard,The Final,3,Davidovich Fokina A.,Hurkacz H.,Davidovich Fokina A.,29,46,1680,1120,2.2,1.67,6-4 7-6
+Hangzhou Open,2026-09-29,ATP250,Outdoor,Hard,The Final,3,Rublev A.,Medvedev D.,Medvedev D.,25,6,1930,3770,2.75,1.44,5-7 4-6
