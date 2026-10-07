@@ -66926,7 +66926,7 @@ Open Sud de France,2026-02-05,ATP250,Indoor,Hard,2nd Round,3,Droguet T.,Kovacevi
 Open Sud de France,2026-02-05,ATP250,Indoor,Hard,2nd Round,3,Fils A.,Blanchet U.,Fils A.,42,174,1110,343,1.25,4.0,7-6 7-5
 Open Sud de France,2026-02-05,ATP250,Indoor,Hard,2nd Round,3,Nardi L.,Cobolli F.,Nardi L.,106,20,571,1955,2.1,1.73,6-2 6-3
 Open Sud de France,2026-02-05,ATP250,Indoor,Hard,2nd Round,3,Wawrinka S.,Auger-Aliassime F.,Auger-Aliassime F.,113,8,537,3725,3.5,1.3,4-6 6-7
-Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Damm M.,Nardi L.,Damm M.,160,106,373,571,1.785,2.03,6-3 7-6
+Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Damm M.,Nardi L.,Damm M.,160,106,373,571,1.7850000000000001,2.0300000000000002,6-3 7-6
 Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Droguet T.,Griekspoor T.,Droguet T.,150,29,403,1565,2.5,1.53,7-6 7-6
 Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Fils A.,Auger-Aliassime F.,Auger-Aliassime F.,42,8,1110,3725,2.63,1.5,4-6 2-6
 Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Gea A.,Mannarino A.,Mannarino A.,168,70,353,810,1.73,2.1,7-5 4-6 4-6
@@ -67602,7 +67602,7 @@ Mutua Madrid Open,2026-04-23,Masters 1000,Outdoor,Clay,1st Round,3,Trungelliti M
 Mutua Madrid Open,2026-04-23,Masters 1000,Outdoor,Clay,1st Round,3,Ugo Carabelli C.,Monfils G.,Ugo Carabelli C.,57,200,865,290,1.5,2.63,6-3 6-4
 Mutua Madrid Open,2026-04-23,Masters 1000,Outdoor,Clay,1st Round,3,Vallejo D.,Dimitrov G.,Vallejo D.,96,137,640,455,1.91,1.91,6-4 6-4
 Mutua Madrid Open,2026-04-23,Masters 1000,Outdoor,Clay,1st Round,3,Walton A.,Landaluce M.,Walton A.,117,99,547,634,4.5,1.2,6-2 6-3
-Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,Bonzi B.,Sinner J.,Sinner J.,104,1,616,13350,34.0,1.015,7-6 1-6 4-6
+Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,Bonzi B.,Sinner J.,Sinner J.,104,1,616,13350,34.0,1.0150000000000001,7-6 1-6 4-6
 Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,De Minaur A.,Jodar R.,Jodar R.,8,42,3845,1080,1.73,2.1,3-6 1-6
 Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,Etcheverry T.,Ofner S.,Etcheverry T.,29,83,1590,698,1.57,2.38,6-4 6-4
 Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,Fils A.,Buse I.,Fils A.,25,58,1740,864,1.14,5.5,6-7 7-6 7-5
@@ -68053,7 +68053,7 @@ Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Collignon R
 Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Diallo G.,Atmane T.,Diallo G.,91,50,685,982,1.73,2.1,6-7 6-4 7-5
 Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Draper J.,Giron M.,Draper J.,160,86,360,705,1.36,3.2,6-4 7-6
 Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Munar J.,Bergs Z.,Bergs Z.,44,48,1065,1010,2.2,1.67,2-6 4-6
-Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Trungelliti M.,Pinnington Jones J.,Pinnington Jones J.,94,145,670,409,2.85,1.39,7-5 3-6 5-7
+Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Trungelliti M.,Pinnington Jones J.,Pinnington Jones J.,94,145,670,409,2.8499999999999996,1.39,7-5 3-6 5-7
 Mallorca Championships,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Ghibaudo A.,Kecmanovic M.,Kecmanovic M.,303,51,177,980,5.5,1.14,6-2 3-6 6-7
 Mallorca Championships,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Molcan A.,Marozsan F.,Marozsan F.,102,62,626,895,2.1,1.73,6-2 6-7 6-7
 Mallorca Championships,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Royer V.,Quinn E.,Quinn E.,75,63,798,894,3.0,1.4,4-6 3-6
@@ -68813,3 +68813,61 @@ Hangzhou Open,2026-09-28,ATP250,Outdoor,Hard,Semifinals,3,Jacquet K.,Rublev A.,R
 Hangzhou Open,2026-09-28,ATP250,Outdoor,Hard,Semifinals,3,Medvedev D.,Safiullin R.,Medvedev D.,6,102,3770,594,1.44,2.75,7-5 6-4
 Chengdu Open,2026-09-29,ATP250,Outdoor,Hard,The Final,3,Davidovich Fokina A.,Hurkacz H.,Davidovich Fokina A.,29,46,1680,1120,2.2,1.67,6-4 7-6
 Hangzhou Open,2026-09-29,ATP250,Outdoor,Hard,The Final,3,Rublev A.,Medvedev D.,Medvedev D.,25,6,1930,3770,2.75,1.44,5-7 4-6
+China Open,2026-09-30,ATP500,Outdoor,Hard,1st Round,3,Bu Y.,Cerundolo J.M.,Bu Y.,104,53,602,995,1.53,2.5,6-2 5-7 6-4
+China Open,2026-09-30,ATP500,Outdoor,Hard,1st Round,3,Djokovic N.,Borges N.,Djokovic N.,11,49,2980,1070,1.33,3.4,6-3 7-6
+China Open,2026-09-30,ATP500,Outdoor,Hard,1st Round,3,Khachanov K.,Auger-Aliassime F.,Khachanov K.,26,5,1800,3890,2.3,1.62,6-3 6-3
+China Open,2026-09-30,ATP500,Outdoor,Hard,1st Round,3,Tirante T.A.,Struff J.L.,Struff J.L.,52,59,1010,909,1.53,2.5,1-6 4-6
+China Open,2026-09-30,ATP500,Outdoor,Hard,1st Round,3,Zhang Zh.,Gea A.,Gea A.,165,58,340,918,4.33,1.22,4-6 3-6
+Japan Open Tennis Championships,2026-09-30,ATP500,Outdoor,Hard,1st Round,3,Fils A.,Van Assche L.,Fils A.,9,43,3150,1180,1.13,6.0,6-3 6-2
+Japan Open Tennis Championships,2026-09-30,ATP500,Outdoor,Hard,1st Round,3,Paul T.,Tabilo A.,Tabilo A.,16,31,2375,1565,1.33,3.4,1-6 2-6
+Japan Open Tennis Championships,2026-09-30,ATP500,Outdoor,Hard,1st Round,3,Sakamoto R.,Arnaldi M.,Arnaldi M.,137,37,423,1336,1.73,2.1,6-2 4-6 4-6
+Japan Open Tennis Championships,2026-09-30,ATP500,Outdoor,Hard,1st Round,3,Vacherot V.,Blockx A.,Vacherot V.,18,27,2250,1787,2.2,1.67,7-6 7-6
+China Open,2026-10-01,ATP500,Outdoor,Hard,1st Round,3,Cobolli F.,Safiullin R.,Safiullin R.,7,84,3680,694,1.91,1.91,3-6 2-6
+China Open,2026-10-01,ATP500,Outdoor,Hard,1st Round,3,Halys Q.,Buse I.,Halys Q.,50,35,1070,1447,1.73,2.1,6-1 7-6
+China Open,2026-10-01,ATP500,Outdoor,Hard,1st Round,3,Mensik J.,Bublik A.,Mensik J.,14,20,2405,2185,1.57,2.38,6-4 7-6
+China Open,2026-10-01,ATP500,Outdoor,Hard,1st Round,3,Molcan A.,Machac T.,Molcan A.,96,75,637,770,1.2,4.0,6-3 6-2
+China Open,2026-10-01,ATP500,Outdoor,Hard,1st Round,3,Navone M.,De Minaur A.,De Minaur A.,45,10,1155,3150,4.5,1.2,6-7 2-6
+China Open,2026-10-01,ATP500,Outdoor,Hard,1st Round,3,Norrie C.,Zverev A.,Zverev A.,39,2,1275,9630,7.0,1.1,6-7 4-6
+China Open,2026-10-01,ATP500,Outdoor,Hard,1st Round,3,Rublev A.,Griekspoor T.,Rublev A.,24,55,2020,975,1.5,2.63,6-4 5-7 7-6
+China Open,2026-10-01,ATP500,Outdoor,Hard,1st Round,3,Shang J.,Baez S.,Shang J.,250,51,220,1044,1.62,2.3,5-7 6-3 7-5
+China Open,2026-10-01,ATP500,Outdoor,Hard,1st Round,3,Tien L.,Hurkacz H.,Hurkacz H.,15,41,2395,1220,1.53,2.5,7-5 3-6 4-6
+China Open,2026-10-01,ATP500,Outdoor,Hard,1st Round,3,Van De Zandschulp B.,Cerundolo F.,Cerundolo F.,40,22,1258,2130,2.2,1.67,7-5 4-6 3-6
+Japan Open Tennis Championships,2026-10-01,ATP500,Outdoor,Hard,1st Round,3,Alcaraz C.,Michelsen A.,Alcaraz C.,3,34,5060,1460,1.14,5.5,7-6 4-6 6-1
+Japan Open Tennis Championships,2026-10-01,ATP500,Outdoor,Hard,1st Round,3,Bergs Z.,Lehecka J.,Lehecka J.,38,23,1320,2120,3.4,1.33,3-6 7-6 3-6
+Japan Open Tennis Championships,2026-10-01,ATP500,Outdoor,Hard,1st Round,3,Berrettini M.,Davidovich Fokina A.,Berrettini M.,47,28,1128,1780,2.3,1.62,1-6 7-6 6-4
+Japan Open Tennis Championships,2026-10-01,ATP500,Outdoor,Hard,1st Round,3,Faria J.,Fery A.,Faria J.,61,36,888,1413,1.8,2.0,6-4 3-6 6-4
+Japan Open Tennis Championships,2026-10-01,ATP500,Outdoor,Hard,1st Round,3,Jodar R.,Vallejo D.,Vallejo D.,13,56,2659,939,1.22,4.33,1-6 3-6
+Japan Open Tennis Championships,2026-10-01,ATP500,Outdoor,Hard,1st Round,3,Munar J.,Fritz T.,Munar J.,64,12,875,2880,3.5,1.3,6-7 6-4 6-3
+Japan Open Tennis Championships,2026-10-01,ATP500,Outdoor,Hard,1st Round,3,Nakashima B.,Humbert U.,Humbert U.,17,32,2335,1535,1.44,2.75,3-6 2-6
+Japan Open Tennis Championships,2026-10-01,ATP500,Outdoor,Hard,1st Round,3,Rune H.,Jacquet K.,Jacquet K.,188,86,300,681,1.53,2.5,3-6 1-6
+Japan Open Tennis Championships,2026-10-01,ATP500,Outdoor,Hard,1st Round,3,Ruud C.,Darderi L.,Darderi L.,21,19,2145,2200,1.44,2.75,6-7 3-6
+Japan Open Tennis Championships,2026-10-01,ATP500,Outdoor,Hard,1st Round,3,Shimabukuro S.,Shapovalov D.,Shapovalov D.,108,46,577,1155,3.5,1.3,5-7 1-6
+Japan Open Tennis Championships,2026-10-01,ATP500,Outdoor,Hard,1st Round,3,Tiafoe F.,Nishikori K.,Tiafoe F.,8,436,3380,111,1.17,5.0,6-4 6-4
+Japan Open Tennis Championships,2026-10-01,ATP500,Outdoor,Hard,1st Round,3,Tsitsipas S.,Etcheverry T.,Tsitsipas S.,44,30,1165,1590,1.3,3.5,4-6 6-3 6-4
+China Open,2026-10-02,ATP500,Outdoor,Hard,1st Round,3,Carreno Busta P.,Medvedev D.,Medvedev D.,66,6,859,3710,5.0,1.17,4-6 2-6
+China Open,2026-10-02,ATP500,Outdoor,Hard,2nd Round,3,Djokovic N.,Bu Y.,Djokovic N.,11,104,2980,602,1.25,4.0,4-6 7-6 6-2
+China Open,2026-10-02,ATP500,Outdoor,Hard,2nd Round,3,Gea A.,Hurkacz H.,Hurkacz H.,58,41,918,1220,2.0,1.8,6-7 7-6 2-6
+China Open,2026-10-02,ATP500,Outdoor,Hard,2nd Round,3,Khachanov K.,Molcan A.,Khachanov K.,26,96,1800,637,1.22,4.33,7-5 6-3
+Japan Open Tennis Championships,2026-10-02,ATP500,Outdoor,Hard,2nd Round,3,Jacquet K.,Darderi L.,Jacquet K.,86,19,681,2200,2.2,1.67,6-3 7-6
+Japan Open Tennis Championships,2026-10-02,ATP500,Outdoor,Hard,2nd Round,3,Munar J.,Faria J.,Munar J.,64,61,875,888,1.62,2.3,6-1 6-1
+Japan Open Tennis Championships,2026-10-02,ATP500,Outdoor,Hard,2nd Round,3,Tiafoe F.,Fils A.,Fils A.,8,9,3380,3150,3.0,1.4,3-6 5-7
+Japan Open Tennis Championships,2026-10-02,ATP500,Outdoor,Hard,2nd Round,3,Tsitsipas S.,Vacherot V.,Vacherot V.,44,18,1165,2250,1.57,2.38,6-4 6-7 4-6
+China Open,2026-10-03,ATP500,Outdoor,Hard,2nd Round,3,Halys Q.,De Minaur A.,De Minaur A.,50,10,1070,3150,3.5,1.3,6-3 6-7 5-7
+China Open,2026-10-03,ATP500,Outdoor,Hard,2nd Round,3,Mensik J.,Cerundolo F.,Cerundolo F.,14,22,2405,2130,1.44,2.75,3-6 3-6
+China Open,2026-10-03,ATP500,Outdoor,Hard,2nd Round,3,Rublev A.,Safiullin R.,Rublev A.,24,84,2020,694,1.67,2.2,6-2 3-6 6-4
+China Open,2026-10-03,ATP500,Outdoor,Hard,2nd Round,3,Struff J.L.,Medvedev D.,Medvedev D.,59,6,909,3710,5.5,1.14,4-6 3-6
+China Open,2026-10-03,ATP500,Outdoor,Hard,2nd Round,3,Zverev A.,Shang J.,Zverev A.,2,250,9630,220,1.07,9.0,6-0 6-3
+Japan Open Tennis Championships,2026-10-03,ATP500,Outdoor,Hard,2nd Round,3,Arnaldi M.,Alcaraz C.,Alcaraz C.,37,3,1336,5060,11.0,1.05,6-7 1-6
+Japan Open Tennis Championships,2026-10-03,ATP500,Outdoor,Hard,2nd Round,3,Humbert U.,Lehecka J.,Lehecka J.,32,23,1535,2120,2.38,1.57,7-5 4-6 4-6
+Japan Open Tennis Championships,2026-10-03,ATP500,Outdoor,Hard,2nd Round,3,Shapovalov D.,Tabilo A.,Shapovalov D.,46,31,1155,1565,1.67,2.2,7-5 3-6 6-4
+Japan Open Tennis Championships,2026-10-03,ATP500,Outdoor,Hard,2nd Round,3,Vallejo D.,Berrettini M.,Vallejo D.,56,47,939,1128,2.38,1.57,7-6 6-1
+China Open,2026-10-04,ATP500,Outdoor,Hard,Quarterfinals,3,Hurkacz H.,Khachanov K.,Hurkacz H.,41,26,1220,1800,2.3,1.62,7-6 6-2
+China Open,2026-10-04,ATP500,Outdoor,Hard,Quarterfinals,3,Medvedev D.,Cerundolo F.,Medvedev D.,6,22,3710,2130,1.4,3.0,7-6 6-3
+China Open,2026-10-04,ATP500,Outdoor,Hard,Quarterfinals,3,Rublev A.,De Minaur A.,De Minaur A.,24,10,2020,3150,2.0,1.8,6-1 2-6 3-6
+China Open,2026-10-04,ATP500,Outdoor,Hard,Quarterfinals,3,Zverev A.,Djokovic N.,Djokovic N.,2,11,9630,2980,1.36,3.2,6-4 4-6 4-6
+Japan Open Tennis Championships,2026-10-04,ATP500,Outdoor,Hard,Quarterfinals,3,Fils A.,Vacherot V.,Vacherot V.,9,18,3150,2250,1.25,4.0,5-7 6-4 4-6
+Japan Open Tennis Championships,2026-10-04,ATP500,Outdoor,Hard,Quarterfinals,3,Lehecka J.,Vallejo D.,Lehecka J.,23,56,2120,939,1.33,3.4,6-1 6-1
+Japan Open Tennis Championships,2026-10-04,ATP500,Outdoor,Hard,Quarterfinals,3,Munar J.,Jacquet K.,Munar J.,64,86,875,681,1.67,2.2,6-4 6-2
+Japan Open Tennis Championships,2026-10-05,ATP500,Outdoor,Hard,Semifinals,3,Lehecka J.,Vacherot V.,Lehecka J.,23,18,2120,2250,1.5,2.63,6-4 6-2
+Japan Open Tennis Championships,2026-10-05,ATP500,Outdoor,Hard,Semifinals,3,Munar J.,Alcaraz C.,Alcaraz C.,64,3,875,5060,7.0,1.1,7-5 3-6 1-6
+Japan Open Tennis Championships,2026-10-06,ATP500,Outdoor,Hard,The Final,3,Lehecka J.,Alcaraz C.,Alcaraz C.,23,3,2120,5060,3.75,1.29,6-7 4-6
