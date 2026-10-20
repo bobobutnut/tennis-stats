@@ -66926,7 +66926,7 @@ Open Sud de France,2026-02-05,ATP250,Indoor,Hard,2nd Round,3,Droguet T.,Kovacevi
 Open Sud de France,2026-02-05,ATP250,Indoor,Hard,2nd Round,3,Fils A.,Blanchet U.,Fils A.,42,174,1110,343,1.25,4.0,7-6 7-5
 Open Sud de France,2026-02-05,ATP250,Indoor,Hard,2nd Round,3,Nardi L.,Cobolli F.,Nardi L.,106,20,571,1955,2.1,1.73,6-2 6-3
 Open Sud de France,2026-02-05,ATP250,Indoor,Hard,2nd Round,3,Wawrinka S.,Auger-Aliassime F.,Auger-Aliassime F.,113,8,537,3725,3.5,1.3,4-6 6-7
-Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Damm M.,Nardi L.,Damm M.,160,106,373,571,1.785,2.03,6-3 7-6
+Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Damm M.,Nardi L.,Damm M.,160,106,373,571,1.7850000000000001,2.0300000000000002,6-3 7-6
 Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Droguet T.,Griekspoor T.,Droguet T.,150,29,403,1565,2.5,1.53,7-6 7-6
 Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Fils A.,Auger-Aliassime F.,Auger-Aliassime F.,42,8,1110,3725,2.63,1.5,4-6 2-6
 Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Gea A.,Mannarino A.,Mannarino A.,168,70,353,810,1.73,2.1,7-5 4-6 4-6
@@ -67602,7 +67602,7 @@ Mutua Madrid Open,2026-04-23,Masters 1000,Outdoor,Clay,1st Round,3,Trungelliti M
 Mutua Madrid Open,2026-04-23,Masters 1000,Outdoor,Clay,1st Round,3,Ugo Carabelli C.,Monfils G.,Ugo Carabelli C.,57,200,865,290,1.5,2.63,6-3 6-4
 Mutua Madrid Open,2026-04-23,Masters 1000,Outdoor,Clay,1st Round,3,Vallejo D.,Dimitrov G.,Vallejo D.,96,137,640,455,1.91,1.91,6-4 6-4
 Mutua Madrid Open,2026-04-23,Masters 1000,Outdoor,Clay,1st Round,3,Walton A.,Landaluce M.,Walton A.,117,99,547,634,4.5,1.2,6-2 6-3
-Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,Bonzi B.,Sinner J.,Sinner J.,104,1,616,13350,34.0,1.015,7-6 1-6 4-6
+Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,Bonzi B.,Sinner J.,Sinner J.,104,1,616,13350,34.0,1.0150000000000001,7-6 1-6 4-6
 Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,De Minaur A.,Jodar R.,Jodar R.,8,42,3845,1080,1.73,2.1,3-6 1-6
 Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,Etcheverry T.,Ofner S.,Etcheverry T.,29,83,1590,698,1.57,2.38,6-4 6-4
 Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,Fils A.,Buse I.,Fils A.,25,58,1740,864,1.14,5.5,6-7 7-6 7-5
@@ -68053,7 +68053,7 @@ Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Collignon R
 Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Diallo G.,Atmane T.,Diallo G.,91,50,685,982,1.73,2.1,6-7 6-4 7-5
 Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Draper J.,Giron M.,Draper J.,160,86,360,705,1.36,3.2,6-4 7-6
 Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Munar J.,Bergs Z.,Bergs Z.,44,48,1065,1010,2.2,1.67,2-6 4-6
-Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Trungelliti M.,Pinnington Jones J.,Pinnington Jones J.,94,145,670,409,2.85,1.39,7-5 3-6 5-7
+Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Trungelliti M.,Pinnington Jones J.,Pinnington Jones J.,94,145,670,409,2.8499999999999996,1.39,7-5 3-6 5-7
 Mallorca Championships,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Ghibaudo A.,Kecmanovic M.,Kecmanovic M.,303,51,177,980,5.5,1.14,6-2 3-6 6-7
 Mallorca Championships,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Molcan A.,Marozsan F.,Marozsan F.,102,62,626,895,2.1,1.73,6-2 6-7 6-7
 Mallorca Championships,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Royer V.,Quinn E.,Quinn E.,75,63,798,894,3.0,1.4,4-6 3-6
@@ -68871,3 +68871,94 @@ Japan Open Tennis Championships,2026-10-04,ATP500,Outdoor,Hard,Quarterfinals,3,M
 Japan Open Tennis Championships,2026-10-05,ATP500,Outdoor,Hard,Semifinals,3,Lehecka J.,Vacherot V.,Lehecka J.,23,18,2120,2250,1.5,2.63,6-4 6-2
 Japan Open Tennis Championships,2026-10-05,ATP500,Outdoor,Hard,Semifinals,3,Munar J.,Alcaraz C.,Alcaraz C.,64,3,875,5060,7.0,1.1,7-5 3-6 1-6
 Japan Open Tennis Championships,2026-10-06,ATP500,Outdoor,Hard,The Final,3,Lehecka J.,Alcaraz C.,Alcaraz C.,23,3,2120,5060,3.75,1.29,6-7 4-6
+Shanghai Masters,2026-10-07,Masters 1000,Outdoor,Hard,1st Round,3,Altmaier D.,Rune H.,Altmaier D.,67,195,849,300,2.75,1.44,1-6 7-6 6-4
+Shanghai Masters,2026-10-07,Masters 1000,Outdoor,Hard,1st Round,3,Bellucci M.,Zhou Y.,Zhou Y.,86,277,700,203,1.29,3.75,4-6 6-3 6-7
+Shanghai Masters,2026-10-07,Masters 1000,Outdoor,Hard,1st Round,3,Cilic M.,Fery A.,Fery A.,80,37,741,1413,2.38,1.57,6-7 1-6
+Shanghai Masters,2026-10-07,Masters 1000,Outdoor,Hard,1st Round,3,Cina F.,Molcan A.,Molcan A.,147,84,383,712,2.3,1.62,6-4 1-6 2-6
+Shanghai Masters,2026-10-07,Masters 1000,Outdoor,Hard,1st Round,3,Gea A.,Faria J.,Gea A.,56,60,985,941,1.53,2.5,6-7 6-1 6-2
+Shanghai Masters,2026-10-07,Masters 1000,Outdoor,Hard,1st Round,3,Halys Q.,Wong C.,Halys Q.,48,101,1107,620,1.73,2.1,6-4 7-6
+Shanghai Masters,2026-10-07,Masters 1000,Outdoor,Hard,1st Round,3,Hanfmann Y.,Majchrzak K.,Hanfmann Y.,57,70,976,805,2.38,1.57,6-7 7-6 7-6
+Shanghai Masters,2026-10-07,Masters 1000,Outdoor,Hard,1st Round,3,Hijikata R.,Safiullin R.,Safiullin R.,85,79,711,744,3.2,1.36,5-7 3-6
+Shanghai Masters,2026-10-07,Masters 1000,Outdoor,Hard,1st Round,3,Kecmanovic M.,Shimabukuro S.,Kecmanovic M.,61,109,925,577,1.4,3.0,6-2 6-4
+Shanghai Masters,2026-10-07,Masters 1000,Outdoor,Hard,1st Round,3,Kovacevic A.,Berrettini M.,Berrettini M.,81,46,730,1168,2.63,1.5,7-6 1-6 4-6
+Shanghai Masters,2026-10-07,Masters 1000,Outdoor,Hard,1st Round,3,Sakamoto R.,Trungelliti M.,Sakamoto R.,137,90,423,661,1.44,2.75,6-3 7-5
+Shanghai Masters,2026-10-07,Masters 1000,Outdoor,Hard,1st Round,3,Wu Y.,Zheng M.,Wu Y.,113,94,535,649,1.73,2.1,6-3 7-6
+Shanghai Masters,2026-10-07,Masters 1000,Outdoor,Hard,1st Round,3,Zhang Zh.,Machac T.,Machac T.,166,75,340,783,2.75,1.44,6-1 6-7 2-6
+Shanghai Masters,2026-10-08,Masters 1000,Outdoor,Hard,1st Round,3,Brooksby J.,Munar J.,Brooksby J.,102,49,613,1100,2.63,1.5,7-5 6-4
+Shanghai Masters,2026-10-08,Masters 1000,Outdoor,Hard,1st Round,3,Bu Y.,Van Assche L.,Bu Y.,93,45,652,1180,1.62,2.3,7-6 6-3
+Shanghai Masters,2026-10-08,Masters 1000,Outdoor,Hard,1st Round,3,Diaz Acosta F.,Borges N.,Borges N.,69,51,824,1070,3.75,1.29,6-7 2-6
+Shanghai Masters,2026-10-08,Masters 1000,Outdoor,Hard,1st Round,3,Giron M.,Baez S.,Baez S.,88,53,688,1044,2.1,1.73,6-1 3-6 4-6
+Shanghai Masters,2026-10-08,Masters 1000,Outdoor,Hard,1st Round,3,Griekspoor T.,Kotov P.,Kotov P.,58,187,975,308,1.44,2.75,4-6 6-7
+Shanghai Masters,2026-10-08,Masters 1000,Outdoor,Hard,1st Round,3,Hurkacz H.,Duckworth J.,Hurkacz H.,34,64,1475,877,1.36,3.2,6-3 7-6
+Shanghai Masters,2026-10-08,Masters 1000,Outdoor,Hard,1st Round,3,Kopriva V.,Bergs Z.,Bergs Z.,68,39,846,1320,3.2,1.36,3-6 1-6
+Shanghai Masters,2026-10-08,Masters 1000,Outdoor,Hard,1st Round,3,Landaluce M.,Struff J.L.,Struff J.L.,73,59,797,949,2.0,1.8,4-6 4-6
+Shanghai Masters,2026-10-08,Masters 1000,Outdoor,Hard,1st Round,3,Mejia N.,Cerundolo J.M.,Cerundolo J.M.,119,55,507,995,3.0,1.4,4-6 4-6
+Shanghai Masters,2026-10-08,Masters 1000,Outdoor,Hard,1st Round,3,Navone M.,Carreno Busta P.,Carreno Busta P.,47,65,1155,874,1.67,2.2,6-4 5-7 3-6
+Shanghai Masters,2026-10-08,Masters 1000,Outdoor,Hard,1st Round,3,Simakin I.,Ugo Carabelli C.,Ugo Carabelli C.,154,77,366,770,1.4,3.0,6-2 2-6 5-7
+Shanghai Masters,2026-10-08,Masters 1000,Outdoor,Hard,1st Round,3,Svajda Z.,Marozsan F.,Svajda Z.,82,63,729,880,2.1,1.73,6-3 7-6
+Shanghai Masters,2026-10-08,Masters 1000,Outdoor,Hard,1st Round,3,Svrcina D.,Norrie C.,Svrcina D.,126,40,474,1275,2.75,1.44,6-3 3-6 6-4
+Shanghai Masters,2026-10-08,Masters 1000,Outdoor,Hard,1st Round,3,Tirante T.A.,Medjedovic H.,Tirante T.A.,54,78,1010,764,1.67,2.2,6-4 6-2
+Shanghai Masters,2026-10-08,Masters 1000,Outdoor,Hard,1st Round,3,Tomic B.,Arnaldi M.,Arnaldi M.,185,38,314,1386,2.75,1.44,3-6 1-6
+Shanghai Masters,2026-10-08,Masters 1000,Outdoor,Hard,1st Round,3,Tsitsipas S.,Coppejans K.,Tsitsipas S.,43,232,1230,248,1.08,8.0,6-3 7-5
+Shanghai Masters,2026-10-08,Masters 1000,Outdoor,Hard,1st Round,3,Vallejo D.,Royer V.,Vallejo D.,52,105,1048,600,1.73,2.1,6-3 6-1
+Shanghai Masters,2026-10-08,Masters 1000,Outdoor,Hard,1st Round,3,Van De Zandschulp B.,Merida Aguilar D.,Van De Zandschulp B.,41,44,1258,1210,1.91,1.91,1-6 6-3 6-4
+Shanghai Masters,2026-10-09,Masters 1000,Outdoor,Hard,2nd Round,3,Berrettini M.,Nakashima B.,Nakashima B.,46,18,1168,2335,2.38,1.57,6-7 5-7
+Shanghai Masters,2026-10-09,Masters 1000,Outdoor,Hard,2nd Round,3,Brooksby J.,Davidovich Fokina A.,Davidovich Fokina A.,102,26,613,1930,3.0,1.4,1-6 3-6
+Shanghai Masters,2026-10-09,Masters 1000,Outdoor,Hard,2nd Round,3,Djokovic N.,Hurkacz H.,Hurkacz H.,11,34,3180,1475,1.57,2.38,4-6 3-6
+Shanghai Masters,2026-10-09,Masters 1000,Outdoor,Hard,2nd Round,3,Halys Q.,Blockx A.,Halys Q.,48,28,1107,1787,2.0,1.8,4-6 7-6 6-4
+Shanghai Masters,2026-10-09,Masters 1000,Outdoor,Hard,2nd Round,3,Humbert U.,Gea A.,Gea A.,32,56,1575,985,2.0,1.8,4-6 6-3 1-6
+Shanghai Masters,2026-10-09,Masters 1000,Outdoor,Hard,2nd Round,3,Khachanov K.,Fery A.,Khachanov K.,27,37,1900,1413,1.4,3.0,7-6 6-7 7-6
+Shanghai Masters,2026-10-09,Masters 1000,Outdoor,Hard,2nd Round,3,Machac T.,Bublik A.,Bublik A.,75,22,783,2185,2.63,1.5,4-6 6-7
+Shanghai Masters,2026-10-09,Masters 1000,Outdoor,Hard,2nd Round,3,Mannarino A.,Cobolli F.,Mannarino A.,83,7,723,3680,2.63,1.5,6-1 4-6 6-3
+Shanghai Masters,2026-10-09,Masters 1000,Outdoor,Hard,2nd Round,3,Mensik J.,Kecmanovic M.,Mensik J.,15,61,2445,925,1.33,3.4,6-3 6-3
+Shanghai Masters,2026-10-09,Masters 1000,Outdoor,Hard,2nd Round,3,Rublev A.,Sakamoto R.,Sakamoto R.,23,137,2175,423,1.33,3.4,4-6 4-6
+Shanghai Masters,2026-10-09,Masters 1000,Outdoor,Hard,2nd Round,3,Safiullin R.,Cerundolo F.,Cerundolo F.,79,20,744,2220,1.91,1.91,6-7 3-6
+Shanghai Masters,2026-10-09,Masters 1000,Outdoor,Hard,2nd Round,3,Shelton B.,Altmaier D.,Shelton B.,4,67,4680,849,1.11,6.5,6-3 7-6
+Shanghai Masters,2026-10-09,Masters 1000,Outdoor,Hard,2nd Round,3,Tiafoe F.,Hanfmann Y.,Tiafoe F.,8,57,3380,976,1.36,3.2,6-4 6-4
+Shanghai Masters,2026-10-09,Masters 1000,Outdoor,Hard,2nd Round,3,Wu Y.,Zverev A.,Zverev A.,113,2,535,9720,7.0,1.1,4-6 6-7
+Shanghai Masters,2026-10-09,Masters 1000,Outdoor,Hard,2nd Round,3,Zhou Y.,Musetti L.,Zhou Y.,277,25,203,2010,4.5,1.2,7-6 3-6 7-6
+Shanghai Masters,2026-10-10,Masters 1000,Outdoor,Hard,2nd Round,3,Arnaldi M.,Fritz T.,Fritz T.,38,12,1386,2880,4.0,1.25,5-7 4-6
+Shanghai Masters,2026-10-10,Masters 1000,Outdoor,Hard,2nd Round,3,Baez S.,Vacherot V.,Vacherot V.,53,14,1044,2450,3.5,1.3,4-6 6-7
+Shanghai Masters,2026-10-10,Masters 1000,Outdoor,Hard,2nd Round,3,Bergs Z.,Buse I.,Bergs Z.,39,36,1320,1447,1.53,2.5,6-0 6-3
+Shanghai Masters,2026-10-10,Masters 1000,Outdoor,Hard,2nd Round,3,Bu Y.,Ruud C.,Ruud C.,93,24,652,2145,1.8,2.0,1-6 6-7
+Shanghai Masters,2026-10-10,Masters 1000,Outdoor,Hard,2nd Round,3,Carreno Busta P.,Tabilo A.,Carreno Busta P.,65,30,874,1605,2.63,1.5,4-6 7-6 6-4
+Shanghai Masters,2026-10-10,Masters 1000,Outdoor,Hard,2nd Round,3,Cerundolo J.M.,Alcaraz C.,Alcaraz C.,55,3,995,5260,11.0,1.05,3-6 3-6
+Shanghai Masters,2026-10-10,Masters 1000,Outdoor,Hard,2nd Round,3,Fils A.,Kotov P.,Fils A.,10,187,3275,308,1.08,8.0,6-3 6-4
+Shanghai Masters,2026-10-10,Masters 1000,Outdoor,Hard,2nd Round,3,Jodar R.,Tirante T.A.,Jodar R.,13,54,2659,1010,1.4,3.0,4-6 6-2 6-3
+Shanghai Masters,2026-10-10,Masters 1000,Outdoor,Hard,2nd Round,3,Lehecka J.,Borges N.,Lehecka J.,19,51,2310,1070,1.33,3.4,6-3 3-6 6-3
+Shanghai Masters,2026-10-10,Masters 1000,Outdoor,Hard,2nd Round,3,Michelsen A.,Van De Zandschulp B.,Van De Zandschulp B.,35,41,1460,1258,1.5,2.63,4-6 4-6
+Shanghai Masters,2026-10-10,Masters 1000,Outdoor,Hard,2nd Round,3,Paul T.,Vallejo D.,Paul T.,17,52,2375,1048,1.44,2.75,6-2 6-2
+Shanghai Masters,2026-10-10,Masters 1000,Outdoor,Hard,2nd Round,3,Struff J.L.,Medvedev D.,Medvedev D.,59,5,949,4010,5.5,1.14,6-4 4-6 3-6
+Shanghai Masters,2026-10-10,Masters 1000,Outdoor,Hard,2nd Round,3,Svajda Z.,Tien L.,Tien L.,82,16,729,2395,3.5,1.3,5-7 5-7
+Shanghai Masters,2026-10-10,Masters 1000,Outdoor,Hard,2nd Round,3,Svrcina D.,Etcheverry T.,Svrcina D.,126,31,474,1590,2.3,1.62,6-3 3-6 7-5
+Shanghai Masters,2026-10-10,Masters 1000,Outdoor,Hard,2nd Round,3,Tsitsipas S.,Darderi L.,Tsitsipas S.,43,21,1230,2200,1.4,3.0,6-3 6-4
+Shanghai Masters,2026-10-10,Masters 1000,Outdoor,Hard,2nd Round,3,Ugo Carabelli C.,Auger-Aliassime F.,Auger-Aliassime F.,77,6,770,3890,10.0,1.06,6-4 6-7 5-7
+Shanghai Masters,2026-10-11,Masters 1000,Outdoor,Hard,3rd Round,3,De Minaur A.,Sakamoto R.,De Minaur A.,9,137,3300,423,1.4,3.0,7-6 6-4
+Shanghai Masters,2026-10-11,Masters 1000,Outdoor,Hard,3rd Round,3,Khachanov K.,Mannarino A.,Khachanov K.,27,83,1900,723,1.3,3.5,6-2 6-4
+Shanghai Masters,2026-10-11,Masters 1000,Outdoor,Hard,3rd Round,3,Mensik J.,Cerundolo F.,Mensik J.,15,20,2445,2220,1.62,2.3,6-3 3-6 6-2
+Shanghai Masters,2026-10-11,Masters 1000,Outdoor,Hard,3rd Round,3,Nakashima B.,Bublik A.,Bublik A.,18,22,2335,2185,1.67,2.2,7-6 3-6 6-7
+Shanghai Masters,2026-10-11,Masters 1000,Outdoor,Hard,3rd Round,3,Shelton B.,Gea A.,Gea A.,4,56,4680,985,1.36,3.2,6-7 6-7
+Shanghai Masters,2026-10-11,Masters 1000,Outdoor,Hard,3rd Round,3,Tiafoe F.,Davidovich Fokina A.,Davidovich Fokina A.,8,26,3380,1930,1.91,1.91,6-7 6-4 6-7
+Shanghai Masters,2026-10-11,Masters 1000,Outdoor,Hard,3rd Round,3,Zhou Y.,Hurkacz H.,Hurkacz H.,277,34,203,1475,6.0,1.13,2-6 6-3 3-6
+Shanghai Masters,2026-10-11,Masters 1000,Outdoor,Hard,3rd Round,3,Zverev A.,Halys Q.,Zverev A.,2,48,9720,1107,1.13,6.0,6-4 6-7 6-3
+Shanghai Masters,2026-10-12,Masters 1000,Outdoor,Hard,3rd Round,3,Alcaraz C.,Bergs Z.,Bergs Z.,3,39,5260,1320,10.0,1.06,5-7 6-7
+Shanghai Masters,2026-10-12,Masters 1000,Outdoor,Hard,3rd Round,3,Auger-Aliassime F.,Carreno Busta P.,Auger-Aliassime F.,6,65,3890,874,1.29,3.75,6-3 4-6 6-1
+Shanghai Masters,2026-10-12,Masters 1000,Outdoor,Hard,3rd Round,3,Fritz T.,Tsitsipas S.,Tsitsipas S.,12,43,2880,1230,1.62,2.3,6-3 5-7 3-6
+Shanghai Masters,2026-10-12,Masters 1000,Outdoor,Hard,3rd Round,3,Jodar R.,Lehecka J.,Jodar R.,13,19,2659,2310,2.3,1.62,4-6 7-6 6-4
+Shanghai Masters,2026-10-12,Masters 1000,Outdoor,Hard,3rd Round,3,Medvedev D.,Svrcina D.,Medvedev D.,5,126,4010,474,1.08,8.0,6-2 6-3
+Shanghai Masters,2026-10-12,Masters 1000,Outdoor,Hard,3rd Round,3,Tien L.,Ruud C.,Ruud C.,16,24,2395,2145,1.57,2.38,4-6 6-7
+Shanghai Masters,2026-10-12,Masters 1000,Outdoor,Hard,3rd Round,3,Vacherot V.,Paul T.,Paul T.,14,17,2450,2375,2.3,1.62,4-6 2-6
+Shanghai Masters,2026-10-12,Masters 1000,Outdoor,Hard,3rd Round,3,Van De Zandschulp B.,Fils A.,Van De Zandschulp B.,41,10,1258,3275,4.5,1.2,7-5 6-4
+Shanghai Masters,2026-10-13,Masters 1000,Outdoor,Hard,4th Round,3,De Minaur A.,Khachanov K.,De Minaur A.,9,27,3300,1900,1.73,2.1,6-3 6-4
+Shanghai Masters,2026-10-13,Masters 1000,Outdoor,Hard,4th Round,3,Hurkacz H.,Davidovich Fokina A.,Davidovich Fokina A.,34,26,1475,1930,1.91,1.91,6-1 3-6 6-7
+Shanghai Masters,2026-10-13,Masters 1000,Outdoor,Hard,4th Round,3,Mensik J.,Gea A.,Gea A.,15,56,2445,985,1.57,2.38,6-7 4-6
+Shanghai Masters,2026-10-13,Masters 1000,Outdoor,Hard,4th Round,3,Zverev A.,Bublik A.,Zverev A.,2,22,9720,2185,1.33,3.4,7-6 4-6 7-6
+Shanghai Masters,2026-10-14,Masters 1000,Outdoor,Hard,4th Round,3,Jodar R.,Van De Zandschulp B.,Jodar R.,13,41,2659,1258,1.44,2.75,6-7 6-4 6-2
+Shanghai Masters,2026-10-14,Masters 1000,Outdoor,Hard,4th Round,3,Paul T.,Bergs Z.,Paul T.,17,39,2375,1320,1.44,2.75,7-6 6-4
+Shanghai Masters,2026-10-14,Masters 1000,Outdoor,Hard,4th Round,3,Tsitsipas S.,Medvedev D.,Medvedev D.,43,5,1230,4010,2.75,1.44,4-6 5-7
+Shanghai Masters,2026-10-15,Masters 1000,Outdoor,Hard,Quarterfinals,3,De Minaur A.,Zverev A.,Zverev A.,9,2,3300,9720,2.63,1.5,4-6 4-6
+Shanghai Masters,2026-10-16,Masters 1000,Outdoor,Hard,Quarterfinals,3,Jodar R.,Ruud C.,Jodar R.,13,24,2659,2145,1.73,2.1,4-6 6-4 6-3
+Shanghai Masters,2026-10-16,Masters 1000,Outdoor,Hard,Quarterfinals,3,Paul T.,Medvedev D.,Medvedev D.,17,5,2375,4010,3.0,1.4,3-6 6-1 3-6
+Shanghai Masters,2026-10-17,Masters 1000,Outdoor,Hard,Semifinals,3,Davidovich Fokina A.,Zverev A.,Davidovich Fokina A.,26,2,1930,9720,4.33,1.22,5-7 6-4 6-3
+Shanghai Masters,2026-10-17,Masters 1000,Outdoor,Hard,Semifinals,3,Medvedev D.,Jodar R.,Jodar R.,5,13,4010,2659,1.5,2.63,3-6 4-6
+Shanghai Masters,2026-10-18,Masters 1000,Outdoor,Hard,The Final,3,Davidovich Fokina A.,Jodar R.,Davidovich Fokina A.,26,13,1930,2659,2.1,1.73,1-6 7-6 6-4
