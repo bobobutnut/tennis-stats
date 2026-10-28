@@ -66926,7 +66926,7 @@ Open Sud de France,2026-02-05,ATP250,Indoor,Hard,2nd Round,3,Droguet T.,Kovacevi
 Open Sud de France,2026-02-05,ATP250,Indoor,Hard,2nd Round,3,Fils A.,Blanchet U.,Fils A.,42,174,1110,343,1.25,4.0,7-6 7-5
 Open Sud de France,2026-02-05,ATP250,Indoor,Hard,2nd Round,3,Nardi L.,Cobolli F.,Nardi L.,106,20,571,1955,2.1,1.73,6-2 6-3
 Open Sud de France,2026-02-05,ATP250,Indoor,Hard,2nd Round,3,Wawrinka S.,Auger-Aliassime F.,Auger-Aliassime F.,113,8,537,3725,3.5,1.3,4-6 6-7
-Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Damm M.,Nardi L.,Damm M.,160,106,373,571,1.785,2.03,6-3 7-6
+Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Damm M.,Nardi L.,Damm M.,160,106,373,571,1.7850000000000001,2.0300000000000002,6-3 7-6
 Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Droguet T.,Griekspoor T.,Droguet T.,150,29,403,1565,2.5,1.53,7-6 7-6
 Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Fils A.,Auger-Aliassime F.,Auger-Aliassime F.,42,8,1110,3725,2.63,1.5,4-6 2-6
 Open Sud de France,2026-02-06,ATP250,Indoor,Hard,Quarterfinals,3,Gea A.,Mannarino A.,Mannarino A.,168,70,353,810,1.73,2.1,7-5 4-6 4-6
@@ -67602,7 +67602,7 @@ Mutua Madrid Open,2026-04-23,Masters 1000,Outdoor,Clay,1st Round,3,Trungelliti M
 Mutua Madrid Open,2026-04-23,Masters 1000,Outdoor,Clay,1st Round,3,Ugo Carabelli C.,Monfils G.,Ugo Carabelli C.,57,200,865,290,1.5,2.63,6-3 6-4
 Mutua Madrid Open,2026-04-23,Masters 1000,Outdoor,Clay,1st Round,3,Vallejo D.,Dimitrov G.,Vallejo D.,96,137,640,455,1.91,1.91,6-4 6-4
 Mutua Madrid Open,2026-04-23,Masters 1000,Outdoor,Clay,1st Round,3,Walton A.,Landaluce M.,Walton A.,117,99,547,634,4.5,1.2,6-2 6-3
-Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,Bonzi B.,Sinner J.,Sinner J.,104,1,616,13350,34.0,1.015,7-6 1-6 4-6
+Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,Bonzi B.,Sinner J.,Sinner J.,104,1,616,13350,34.0,1.0150000000000001,7-6 1-6 4-6
 Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,De Minaur A.,Jodar R.,Jodar R.,8,42,3845,1080,1.73,2.1,3-6 1-6
 Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,Etcheverry T.,Ofner S.,Etcheverry T.,29,83,1590,698,1.57,2.38,6-4 6-4
 Mutua Madrid Open,2026-04-24,Masters 1000,Outdoor,Clay,2nd Round,3,Fils A.,Buse I.,Fils A.,25,58,1740,864,1.14,5.5,6-7 7-6 7-5
@@ -68053,7 +68053,7 @@ Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Collignon R
 Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Diallo G.,Atmane T.,Diallo G.,91,50,685,982,1.73,2.1,6-7 6-4 7-5
 Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Draper J.,Giron M.,Draper J.,160,86,360,705,1.36,3.2,6-4 7-6
 Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Munar J.,Bergs Z.,Bergs Z.,44,48,1065,1010,2.2,1.67,2-6 4-6
-Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Trungelliti M.,Pinnington Jones J.,Pinnington Jones J.,94,145,670,409,2.85,1.39,7-5 3-6 5-7
+Eastbourne International,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Trungelliti M.,Pinnington Jones J.,Pinnington Jones J.,94,145,670,409,2.8499999999999996,1.39,7-5 3-6 5-7
 Mallorca Championships,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Ghibaudo A.,Kecmanovic M.,Kecmanovic M.,303,51,177,980,5.5,1.14,6-2 3-6 6-7
 Mallorca Championships,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Molcan A.,Marozsan F.,Marozsan F.,102,62,626,895,2.1,1.73,6-2 6-7 6-7
 Mallorca Championships,2026-06-22,ATP250,Outdoor,Grass,1st Round,3,Royer V.,Quinn E.,Quinn E.,75,63,798,894,3.0,1.4,4-6 3-6
@@ -68962,3 +68962,81 @@ Shanghai Masters,2026-10-16,Masters 1000,Outdoor,Hard,Quarterfinals,3,Paul T.,Me
 Shanghai Masters,2026-10-17,Masters 1000,Outdoor,Hard,Semifinals,3,Davidovich Fokina A.,Zverev A.,Davidovich Fokina A.,26,2,1930,9720,4.33,1.22,5-7 6-4 6-3
 Shanghai Masters,2026-10-17,Masters 1000,Outdoor,Hard,Semifinals,3,Medvedev D.,Jodar R.,Jodar R.,5,13,4010,2659,1.5,2.63,3-6 4-6
 Shanghai Masters,2026-10-18,Masters 1000,Outdoor,Hard,The Final,3,Davidovich Fokina A.,Jodar R.,Davidovich Fokina A.,26,13,1930,2659,2.1,1.73,1-6 7-6 6-4
+Almaty Open,2026-10-19,ATP250,Indoor,Hard,1st Round,3,Basilashvili N.,Cilic M.,Basilashvili N.,128,84,453,704,1.62,2.3,6-2 7-5
+Almaty Open,2026-10-19,ATP250,Indoor,Hard,1st Round,3,Diaz Acosta F.,Tirante T.A.,Diaz Acosta F.,71,50,790,1032,3.5,1.3,6-7 6-1 6-4
+Almaty Open,2026-10-19,ATP250,Indoor,Hard,1st Round,3,Kecmanovic M.,Duckworth J.,Duckworth J.,57,73,930,774,1.53,2.5,4-6 3-6
+Almaty Open,2026-10-19,ATP250,Indoor,Hard,1st Round,3,Sakellaridis S.,Kukushkin M.,Kukushkin M.,133,389,420,127,1.25,4.0,6-7 6-7
+Almaty Open,2026-10-19,ATP250,Indoor,Hard,1st Round,3,Vukic A.,Mannarino A.,Mannarino A.,116,79,507,743,2.5,1.53,6-7 6-4 3-6
+European Open,2026-10-19,ATP250,Indoor,Hard,1st Round,3,Hanfmann Y.,Damm M.,Damm M.,59,107,923,564,1.8,2.0,5-7 3-6
+European Open,2026-10-19,ATP250,Indoor,Hard,1st Round,3,Michelsen A.,Guerrieri A.,Michelsen A.,37,166,1370,351,1.22,4.33,6-1 6-2
+European Open,2026-10-19,ATP250,Indoor,Hard,1st Round,3,Munar J.,Cina F.,Munar J.,51,135,1010,413,1.4,3.0,6-4 6-3
+Lyon Open,2026-10-19,ATP250,Indoor,Hard,1st Round,3,Arnaldi M.,Musetti L.,Musetti L.,36,26,1386,1870,2.75,1.44,1-6 4-6
+Lyon Open,2026-10-19,ATP250,Indoor,Hard,1st Round,3,Balshaw F.,Faria J.,Balshaw F.,186,56,307,941,2.3,1.62,6-2 4-6 6-3
+Lyon Open,2026-10-19,ATP250,Indoor,Hard,1st Round,3,Kouame M.,Sonego L.,Kouame M.,194,89,300,658,2.2,1.67,7-6 6-4
+Almaty Open,2026-10-20,ATP250,Indoor,Hard,1st Round,3,Hijikata R.,Atmane T.,Atmane T.,86,98,689,616,1.8,2.0,6-7 2-6
+Almaty Open,2026-10-20,ATP250,Indoor,Hard,1st Round,3,Khachanov K.,Sakamoto R.,Khachanov K.,25,124,1990,463,1.36,3.2,6-2 6-4
+Almaty Open,2026-10-20,ATP250,Indoor,Hard,1st Round,3,Shimabukuro S.,Safiullin R.,Shimabukuro S.,109,70,555,794,5.5,1.14,6-7 6-4 6-4
+Almaty Open,2026-10-20,ATP250,Indoor,Hard,1st Round,3,Skatov T.,Marozsan F.,Marozsan F.,201,64,290,860,3.75,1.29,5-7 6-7
+Almaty Open,2026-10-20,ATP250,Indoor,Hard,1st Round,3,Tsitsipas S.,Kovacevic A.,Tsitsipas S.,39,82,1330,715,1.22,4.33,7-6 3-6 6-3
+European Open,2026-10-20,ATP250,Indoor,Hard,1st Round,3,Basavareddy N.,Collignon R.,Collignon R.,134,55,419,978,1.73,2.1,6-3 3-6 4-6
+European Open,2026-10-20,ATP250,Indoor,Hard,1st Round,3,Bergs Z.,Samuel T.,Bergs Z.,41,96,1220,625,1.4,3.0,6-3 7-6
+European Open,2026-10-20,ATP250,Indoor,Hard,1st Round,3,Chidekh C.,Van De Zandschulp B.,Chidekh C.,152,38,371,1333,2.2,1.67,6-1 6-4
+European Open,2026-10-20,ATP250,Indoor,Hard,1st Round,3,Gaston H.,Fearnley J.,Fearnley J.,93,87,641,686,2.2,1.67,3-6 0-6
+European Open,2026-10-20,ATP250,Indoor,Hard,1st Round,3,Giron M.,Struff J.L.,Struff J.L.,88,58,676,929,2.38,1.57,6-7 6-7
+European Open,2026-10-20,ATP250,Indoor,Hard,1st Round,3,Navone M.,Cerundolo J.M.,Navone M.,45,53,1151,1000,1.57,2.38,7-6 6-2
+European Open,2026-10-20,ATP250,Indoor,Hard,1st Round,3,Schoenhaus M.,Griekspoor T.,Griekspoor T.,302,60,178,885,4.0,1.25,6-7 7-6 5-7
+Lyon Open,2026-10-20,ATP250,Indoor,Hard,1st Round,3,Altmaier D.,Droguet T.,Altmaier D.,65,69,849,801,2.75,1.44,5-7 7-6 7-6
+Lyon Open,2026-10-20,ATP250,Indoor,Hard,1st Round,3,Baez S.,Herbert P.,Herbert P.,49,290,1044,184,2.2,1.67,3-6 4-6
+Lyon Open,2026-10-20,ATP250,Indoor,Hard,1st Round,3,Berrettini M.,Jacquet K.,Jacquet K.,43,85,1173,703,1.8,2.0,6-7 5-7
+Lyon Open,2026-10-20,ATP250,Indoor,Hard,1st Round,3,Gojo B.,Fery A.,Gojo B.,148,34,378,1421,2.63,1.5,6-3 7-6
+Lyon Open,2026-10-20,ATP250,Indoor,Hard,1st Round,3,Humbert U.,Moutet C.,Moutet C.,35,94,1420,640,1.33,3.4,2-6 7-6 6-7
+Lyon Open,2026-10-20,ATP250,Indoor,Hard,1st Round,3,Nakashima B.,Medjedovic H.,Nakashima B.,17,76,2375,764,1.33,3.4,7-6 6-7 6-2
+Lyon Open,2026-10-20,ATP250,Indoor,Hard,1st Round,3,Norrie C.,Bonzi B.,Bonzi B.,40,100,1235,605,1.8,2.0,3-6 6-3 3-6
+Lyon Open,2026-10-20,ATP250,Indoor,Hard,1st Round,3,Van Assche L.,Tabur C.,Van Assche L.,48,158,1065,360,1.57,2.38,7-6 6-3
+Almaty Open,2026-10-21,ATP250,Indoor,Hard,1st Round,3,Etcheverry T.,Bellucci M.,Bellucci M.,29,68,1590,812,2.0,1.8,6-7 6-2 4-6
+Almaty Open,2026-10-21,ATP250,Indoor,Hard,1st Round,3,Machac T.,Nurlanuly Z.,Machac T.,72,1308,779,8,1.01,21.0,6-2 6-0
+Almaty Open,2026-10-21,ATP250,Indoor,Hard,2nd Round,3,Basilashvili N.,Diaz Acosta F.,Basilashvili N.,128,71,453,790,1.44,2.75,6-2 6-4
+Almaty Open,2026-10-21,ATP250,Indoor,Hard,2nd Round,3,Darderi L.,Duckworth J.,Duckworth J.,23,73,2160,774,1.8,2.0,5-7 6-7
+Almaty Open,2026-10-21,ATP250,Indoor,Hard,2nd Round,3,Rublev A.,Mannarino A.,Mannarino A.,22,79,2175,743,1.29,3.75,4-6 6-3 3-6
+Almaty Open,2026-10-21,ATP250,Indoor,Hard,2nd Round,3,Tsitsipas S.,Kukushkin M.,Tsitsipas S.,39,389,1330,127,1.06,10.0,6-1 6-2
+European Open,2026-10-21,ATP250,Indoor,Hard,1st Round,3,Bertola R.,Goffin D.,Goffin D.,219,657,256,53,1.57,2.38,6-3 3-6 4-6
+European Open,2026-10-21,ATP250,Indoor,Hard,1st Round,3,Dzumhur D.,Prizmic D.,Dzumhur D.,83,95,712,638,3.0,1.4,7-6 2-6 6-2
+European Open,2026-10-21,ATP250,Indoor,Hard,2nd Round,3,Cerundolo F.,Damm M.,Cerundolo F.,21,107,2220,564,1.53,2.5,6-4 7-6
+European Open,2026-10-21,ATP250,Indoor,Hard,2nd Round,3,Chidekh C.,Fearnley J.,Chidekh C.,152,87,371,686,2.0,1.8,7-6 6-2
+European Open,2026-10-21,ATP250,Indoor,Hard,2nd Round,3,Navone M.,Griekspoor T.,Griekspoor T.,45,60,1151,885,2.38,1.57,6-7 5-7
+European Open,2026-10-21,ATP250,Indoor,Hard,2nd Round,3,Onclin G.,Struff J.L.,Struff J.L.,178,58,326,929,3.75,1.29,4-6 2-6
+Lyon Open,2026-10-21,ATP250,Indoor,Hard,1st Round,3,Landaluce M.,Wawrinka S.,Wawrinka S.,67,140,822,401,1.53,2.5,3-6 7-6 6-7
+Lyon Open,2026-10-21,ATP250,Indoor,Hard,2nd Round,3,Kouame M.,Musetti L.,Musetti L.,194,26,300,1870,4.0,1.25,4-6 4-6
+Lyon Open,2026-10-21,ATP250,Indoor,Hard,2nd Round,3,Moutet C.,Balshaw F.,Moutet C.,94,186,640,307,1.91,1.91,6-4 6-4
+Lyon Open,2026-10-21,ATP250,Indoor,Hard,2nd Round,3,Paul T.,Bonzi B.,Paul T.,15,100,2575,605,1.36,3.2,6-4 6-7 6-3
+Almaty Open,2026-10-22,ATP250,Indoor,Hard,2nd Round,3,Bellucci M.,Atmane T.,Atmane T.,68,98,812,616,1.8,2.0,7-6 6-7 6-7
+Almaty Open,2026-10-22,ATP250,Indoor,Hard,2nd Round,3,Khachanov K.,Machac T.,Khachanov K.,25,72,1990,779,1.36,3.2,6-2 4-6 7-6
+Almaty Open,2026-10-22,ATP250,Indoor,Hard,2nd Round,3,Shimabukuro S.,Medvedev D.,Medvedev D.,109,5,555,3660,8.0,1.08,2-6 1-6
+European Open,2026-10-22,ATP250,Indoor,Hard,2nd Round,3,Bergs Z.,Dzumhur D.,Bergs Z.,41,83,1220,712,1.25,4.0,6-2 6-4
+European Open,2026-10-22,ATP250,Indoor,Hard,2nd Round,3,Goffin D.,Michelsen A.,Michelsen A.,657,37,53,1370,8.0,1.08,3-6 4-6
+European Open,2026-10-22,ATP250,Indoor,Hard,2nd Round,3,Lehecka J.,Collignon R.,Lehecka J.,20,55,2235,978,1.3,3.5,6-4 6-2
+Lyon Open,2026-10-22,ATP250,Indoor,Hard,2nd Round,3,Cobolli F.,Wawrinka S.,Cobolli F.,6,140,3640,401,1.3,3.5,6-2 6-4
+Lyon Open,2026-10-22,ATP250,Indoor,Hard,2nd Round,3,Gojo B.,Altmaier D.,Altmaier D.,148,65,378,849,1.91,1.91,3-6 4-6
+Lyon Open,2026-10-22,ATP250,Indoor,Hard,2nd Round,3,Herbert P.,Fritz T.,Fritz T.,290,14,184,2880,4.5,1.2,2-6 5-7
+Lyon Open,2026-10-22,ATP250,Indoor,Hard,2nd Round,3,Jacquet K.,Nakashima B.,Nakashima B.,85,17,703,2375,2.63,1.5,4-6 3-6
+Lyon Open,2026-10-22,ATP250,Indoor,Hard,2nd Round,3,Van Assche L.,Vacherot V.,Van Assche L.,48,32,1065,1480,2.2,1.67,2-6 6-4 6-4
+Almaty Open,2026-10-23,ATP250,Indoor,Hard,Quarterfinals,3,Basilashvili N.,Mannarino A.,Basilashvili N.,128,79,453,743,1.8,2.0,6-3 6-1
+Almaty Open,2026-10-23,ATP250,Indoor,Hard,Quarterfinals,3,Duckworth J.,Tsitsipas S.,Tsitsipas S.,73,39,774,1330,4.33,1.22,3-6 4-6
+Almaty Open,2026-10-23,ATP250,Indoor,Hard,Quarterfinals,3,Khachanov K.,Bublik A.,Bublik A.,25,19,1990,2275,2.0,1.8,6-4 6-7 6-7
+Almaty Open,2026-10-23,ATP250,Indoor,Hard,Quarterfinals,3,Medvedev D.,Atmane T.,Medvedev D.,5,98,3660,616,1.14,5.5,6-4 6-4
+European Open,2026-10-23,ATP250,Indoor,Hard,Quarterfinals,3,Chidekh C.,Cerundolo F.,Cerundolo F.,152,21,371,2220,2.5,1.53,2-6 4-6
+European Open,2026-10-23,ATP250,Indoor,Hard,Quarterfinals,3,Griekspoor T.,Lehecka J.,Griekspoor T.,60,20,885,2235,3.2,1.36,4-6 6-4 6-3
+European Open,2026-10-23,ATP250,Indoor,Hard,Quarterfinals,3,Michelsen A.,Fils A.,Fils A.,37,10,1370,3325,2.63,1.5,4-6 6-7
+European Open,2026-10-23,ATP250,Indoor,Hard,Quarterfinals,3,Struff J.L.,Bergs Z.,Struff J.L.,58,41,929,1220,2.75,1.44,6-3 7-6
+Lyon Open,2026-10-23,ATP250,Indoor,Hard,Quarterfinals,3,Altmaier D.,Fritz T.,Fritz T.,65,14,849,2880,4.33,1.22,6-7 2-6
+Lyon Open,2026-10-23,ATP250,Indoor,Hard,Quarterfinals,3,Cobolli F.,Nakashima B.,Cobolli F.,6,17,3640,2375,2.75,1.44,4-6 6-4 6-4
+Lyon Open,2026-10-23,ATP250,Indoor,Hard,Quarterfinals,3,Paul T.,Moutet C.,Paul T.,15,94,2575,640,1.29,3.75,6-4 3-6 6-3
+Lyon Open,2026-10-23,ATP250,Indoor,Hard,Quarterfinals,3,Van Assche L.,Musetti L.,Musetti L.,48,26,1065,1870,3.0,1.4,6-7 7-6 4-6
+Almaty Open,2026-10-24,ATP250,Indoor,Hard,Semifinals,3,Basilashvili N.,Tsitsipas S.,Basilashvili N.,128,39,453,1330,2.75,1.44,6-4 6-7 6-3
+European Open,2026-10-24,ATP250,Indoor,Hard,Semifinals,3,Cerundolo F.,Griekspoor T.,Griekspoor T.,21,60,2220,885,1.62,2.3,6-2 3-6 6-7
+European Open,2026-10-24,ATP250,Indoor,Hard,Semifinals,3,Struff J.L.,Fils A.,Struff J.L.,58,10,929,3325,5.0,1.17,6-4 6-7 7-6
+Lyon Open,2026-10-24,ATP250,Indoor,Hard,Semifinals,3,Cobolli F.,Musetti L.,Musetti L.,6,26,3640,1870,1.73,2.1,6-4 2-6 5-7
+Lyon Open,2026-10-24,ATP250,Indoor,Hard,Semifinals,3,Fritz T.,Paul T.,Fritz T.,14,15,2880,2575,1.53,2.5,6-3 7-5
+Almaty Open,2026-10-25,ATP250,Indoor,Hard,The Final,3,Basilashvili N.,Medvedev D.,Medvedev D.,128,5,453,3660,4.33,1.22,7-6 1-6 3-6
+European Open,2026-10-25,ATP250,Indoor,Hard,The Final,3,Struff J.L.,Griekspoor T.,Griekspoor T.,58,60,929,885,2.1,1.73,6-4 3-6 4-6
+Lyon Open,2026-10-25,ATP250,Indoor,Hard,The Final,3,Musetti L.,Fritz T.,Musetti L.,26,14,1870,2880,2.63,1.5,6-3 6-4
